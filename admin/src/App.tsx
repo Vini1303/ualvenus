@@ -2,15 +2,16 @@ import { useCallback, useEffect, useState } from "react";
 import { api, AuthError, tokenStore } from "./api";
 import type { Order, OrderStatus, Stats } from "./types";
 import { Login } from "./Login";
-import { OrderDrawer, Orders, Overview, Products, Suggestions } from "./views";
+import { Inventory, OrderDrawer, Orders, Overview, Products, Suggestions } from "./views";
 import { Icon, Notice, Segmented, Skeleton } from "./ui";
 
-type Tab = "geral" | "pedidos" | "produtos" | "sugestoes";
+type Tab = "geral" | "pedidos" | "produtos" | "estoque" | "sugestoes";
 
 const TABS: { id: Tab; label: string; icon: string; title: string }[] = [
   { id: "geral", label: "Visão geral", icon: "home", title: "Visão geral" },
   { id: "pedidos", label: "Pedidos", icon: "bag", title: "Pedidos" },
   { id: "produtos", label: "Produtos", icon: "box", title: "Produtos e interesse" },
+  { id: "estoque", label: "Estoque", icon: "layers", title: "Estoque" },
   { id: "sugestoes", label: "Sugestões", icon: "bulb", title: "Sugestões" },
 ];
 
@@ -132,7 +133,7 @@ export default function App() {
             </div>
           </div>
           <div className="tools">
-            {tab !== "pedidos" && (
+            {tab !== "pedidos" && tab !== "estoque" && (
               <Segmented
                 value={days}
                 onChange={setDays}
@@ -153,6 +154,8 @@ export default function App() {
           <Orders orders={orders} onOpen={(o) => setOpenId(o.id)} />
         ) : tab === "produtos" ? (
           <Products stats={stats} />
+        ) : tab === "estoque" ? (
+          <Inventory stats={stats} />
         ) : (
           <Suggestions stats={stats} />
         )}

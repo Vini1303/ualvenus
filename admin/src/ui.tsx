@@ -6,6 +6,7 @@ const paths: Record<string, ReactNode> = {
   home: <path d="M3 11l9-8 9 8M5 10v10h5v-6h4v6h5V10" />,
   bag: <path d="M6 7h12l1 13H5L6 7zM9 7a3 3 0 016 0" />,
   box: <path d="M21 8l-9-5-9 5v8l9 5 9-5V8zM3 8l9 5 9-5M12 13v8" />,
+  layers: <path d="M12 3l9 5-9 5-9-5 9-5zM3 13l9 5 9-5M3 17.5l9 5 9-5" />,
   bulb: <path d="M9 18h6M10 21h4M12 3a6 6 0 00-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0012 3z" />,
   money: <path d="M12 2v20M17 6.5C16 5.5 14.2 5 12 5c-2.8 0-4.5 1.2-4.5 3s1.7 2.6 4.5 3 4.5 1.2 4.5 3-1.7 3-4.5 3c-2.2 0-4-.6-5-1.6" />,
   check: <path d="M20 6L9 17l-5-5" />,

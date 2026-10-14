@@ -304,7 +304,7 @@ export function Products({ stats }: { stats: Stats }) {
             ))}
           </Table>
         ) : (
-          <Empty icon="check" text="Nenhum produto com estoque baixo." />
+          <Empty icon="check" text="Nenhum produto disponível com estoque baixo. Veja o estoque completo na aba Estoque." />
         )}
       </Card>
     </div>
@@ -334,6 +334,105 @@ export function Suggestions({ stats }: { stats: Stats }) {
       ) : (
         <Card><Empty icon="bulb" text="Nenhuma sugestão por enquanto. Elas aparecem conforme a loja ganha movimento." /></Card>
       )}
+    </div>
+  );
+}
+
+/* ---------------- Estoque ---------------- */
+type StockFilter = "todos" | "disponivel" | "baixo" | "esgotado" | "consulta";
+
+export function Inventory({ stats }: { stats: Stats }) {
+  const inv = stats.inventory;
+  const [filter, setFilter] = useState<StockFilter>("todos");
+  const [q, setQ] = useState("");
+  const [sort, setSort] = useState<"nome" | "estoque" | "vendidos">("nome");
+
+  const rows = useMemo(() => {
+    const needle = q.trim().toLowerCase();
+    const list = stats.inventoryRows.filter((p) => {
+      if (needle && !`${p.name} ${p.category}`.toLowerCase().includes(needle)) return false;
+      switch (filter) {
+        case "disponivel": return p.available && p.stock > 3;
+        case "baixo": return p.available && p.stock > 0 && p.stock <= 3;
+        case "esgotado": return p.available && p.stock === 0;
+        case "consulta": return !p.available;
+        default: return true;
+      }
+    });
+    if (sort === "estoque") return [...list].sort((a, b) => a.stock - b.stock);
+    if (sort === "vendidos") return [...list].sort((a, b) => b.units - a.units);
+    // Padrão: produtos com estoque primeiro, "sob consulta" no fim.
+    return [...list].sort((a, b) => Number(!a.available) - Number(!b.available) || a.name.localeCompare(b.name, "pt-BR"));
+  }, [stats.inventoryRows, filter, q, sort]);
+
+  const chips: { id: StockFilter; label: string; n: number }[] = [
+    { id: "todos", label: "Todos", n: inv.products },
+    { id: "disponivel", label: "Disponíveis", n: inv.withStock - inv.low },
+    { id: "baixo", label: "Estoque baixo", n: inv.low },
+    { id: "esgotado", label: "Esgotados", n: inv.out },
+    { id: "consulta", label: "Sob consulta", n: inv.onRequest },
+  ];
+
+  return (
+    <div className="content">
+      <div className="kpis">
+        <Kpi label="Unidades em estoque" value={int(inv.units)} icon="layers" tone="info" foot={`${int(inv.withStock)} produtos com estoque`} />
+        <Kpi label="Valor em estoque" value={brl(inv.value)} icon="money" tone="ok" foot="a preço de venda" />
+        <Kpi label="Estoque baixo" value={int(inv.low)} icon="alert" tone="warn" foot="3 unidades ou menos" />
+        <Kpi label="Esgotados / sob consulta" value={`${int(inv.out)} / ${int(inv.onRequest)}`} icon="box" foot="esgotados / sem estoque cadastrado" />
+      </div>
+
+      <Card title="Estoque por produto" subtitle="Já descontadas as vendas feitas pelo site">
+        <div className="filters">
+          <div className="chips">
+            {chips.map((c) => (
+              <button key={c.id} className={`chip ${filter === c.id ? "on" : ""}`} onClick={() => setFilter(c.id)}>
+                {c.label}<small>{c.n}</small>
+              </button>
+            ))}
+          </div>
+          <div className="tools">
+            <select className="status" style={{ width: "auto" }} value={sort} onChange={(e) => setSort(e.target.value as typeof sort)} aria-label="Ordenar">
+              <option value="nome">Com estoque primeiro</option>
+              <option value="estoque">Menor estoque primeiro</option>
+              <option value="vendidos">Mais vendidos primeiro</option>
+            </select>
+            <input className="search" placeholder="Buscar produto ou categoria" value={q} onChange={(e) => setQ(e.target.value)} />
+          </div>
+        </div>
+        {rows.length ? (
+          <>
+            <Table head={[{ label: "Produto" }, { label: "Tamanhos" }, { label: "Estoque", right: true }, { label: "Vendidos", right: true }, { label: "Preço", right: true }]}>
+              {rows.slice(0, 200).map((p) => (
+                <tr key={p.id}>
+                  <td><Prod p={p} /></td>
+                  <td>
+                    {Object.keys(p.sizes).length ? (
+                      <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
+                        {Object.entries(p.sizes).map(([size, n]) => (
+                          <span key={size} className={`badge plain ${n === 0 ? "low" : n <= 3 ? "mid" : ""}`}>{size}: {n}</span>
+                        ))}
+                      </div>
+                    ) : <span className="muted">—</span>}
+                  </td>
+                  <td className="r">
+                    {!p.available
+                      ? <span className="badge plain">Sob consulta</span>
+                      : p.stock === 0
+                        ? <span className="badge plain low">Esgotado</span>
+                        : <b className="num">{p.stock} un.</b>}
+                  </td>
+                  <td className="r num">{p.units}</td>
+                  <td className="r num">{brl(p.price)}</td>
+                </tr>
+              ))}
+            </Table>
+            {rows.length > 200 && <p className="muted" style={{ marginTop: 12 }}>Mostrando 200 de {rows.length}. Use a busca ou os filtros para ver os demais.</p>}
+          </>
+        ) : (
+          <Empty text="Nenhum produto com esse filtro." />
+        )}
+      </Card>
     </div>
   );
 }

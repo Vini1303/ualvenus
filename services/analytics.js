@@ -55,6 +55,10 @@ async function getStats(days = 30) {
   // allOrders cobre o período atual + o anterior (para comparação).
   const orders = allOrders.filter((o) => new Date(o.created_at) >= since);
   const prevLive = allOrders.filter((o) => new Date(o.created_at) < since && o.status !== "cancelado");
+  const sizeStock = (p) =>
+    Object.fromEntries(
+      Object.entries(p.stock || {}).map(([size, q]) => [size, Math.max(0, q - (sold.get(`${p.id}|${size}`) || 0))])
+    );
   const stockLeft = (p) =>
     Object.entries(p.stock || {}).reduce(
       (sum, [size, q]) => sum + Math.max(0, q - (sold.get(`${p.id}|${size}`) || 0)),
@@ -113,6 +117,7 @@ async function getStats(days = 30) {
       onSale: Boolean(p.discount_pct),
       available: p.available !== false,
       stock: stockLeft(p),
+      sizes: sizeStock(p),
       units: r.units,
       revenue: r.revenue,
       views: r.views,
@@ -234,6 +239,16 @@ async function getStats(days = 30) {
     topViewed: top("views"),
     topCarted: top("carts"),
     // Produtos "sob consulta" (available=false) têm estoque 0 de propósito.
+    inventory: {
+      products: rows.length,
+      withStock: rows.filter((r) => r.stock > 0).length,
+      onRequest: rows.filter((r) => !r.available).length,
+      units: rows.reduce((t, r) => t + r.stock, 0),
+      value: rows.reduce((t, r) => t + r.stock * r.price, 0),
+      low: rows.filter((r) => r.available && r.stock > 0 && r.stock <= 3).length,
+      out: rows.filter((r) => r.available && r.stock === 0).length,
+    },
+    inventoryRows: [...rows].sort((a, b) => a.name.localeCompare(b.name, "pt-BR")),
     lowStock: rows.filter((r) => r.available && r.stock <= 3).sort((a, b) => a.stock - b.stock).slice(0, 15),
     categories: [...cats.values()].sort((a, b) => b.revenue - a.revenue),
     suggestions,

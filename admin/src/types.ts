@@ -29,6 +29,7 @@ export interface ProductRow {
   onSale: boolean;
   available: boolean;
   stock: number;
+  sizes: Record<string, number>;
   units: number;
   revenue: number;
   views: number;
@@ -52,6 +53,16 @@ export interface Suggestion {
   productId?: string;
 }
 
+export interface InventorySummary {
+  products: number;
+  withStock: number;
+  onRequest: number;
+  units: number;
+  value: number;
+  low: number;
+  out: number;
+}
+
 export interface Stats {
   days: number;
   generatedAt: string;
@@ -63,6 +74,8 @@ export interface Stats {
   topViewed: ProductRow[];
   topCarted: ProductRow[];
   lowStock: ProductRow[];
+  inventory: InventorySummary;
+  inventoryRows: ProductRow[];
   categories: CategoryRow[];
   suggestions: Suggestion[];
 }
