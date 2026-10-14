@@ -8,7 +8,7 @@ const cartRoutes = require("./cart");
 // POST /api/checkout
 // body: { customer: {name, email, phone}, address: {...} | cep, paymentMethod }
 router.post("/", async (req, res) => {
-  const cart = cartRoutes.getOrCreateCart(req, res);
+  const cart = await cartRoutes.getOrCreateCart(req, res);
 
   if (!cart.items.length) {
     return res.status(400).json({ error: "Carrinho vazio" });
@@ -32,7 +32,7 @@ router.post("/", async (req, res) => {
   }
 
   try {
-    const order = store.createOrder({
+    const order = await store.createOrder({
       cart,
       customer,
       address,
@@ -49,10 +49,12 @@ router.post("/", async (req, res) => {
 });
 
 // GET /api/checkout/order/:id
-router.get("/order/:id", (req, res) => {
-  const order = store.getOrder(req.params.id);
+// Resposta pública: sem dados pessoais do cliente (nome, telefone, endereço).
+router.get("/order/:id", async (req, res) => {
+  const order = await store.getOrder(req.params.id);
   if (!order) return res.status(404).json({ error: "Pedido não encontrado" });
-  res.json(order);
+  const { id, items, shipping, subtotal, total, paymentMethod, status, created_at } = order;
+  res.json({ id, items, shipping, subtotal, total, paymentMethod, status, created_at });
 });
 
 module.exports = router;

@@ -46,6 +46,7 @@ document.getElementById("trackForm").addEventListener("submit", async (e) => {
       pago: "Pagamento confirmado — em preparação",
       enviado: "Enviado",
       entregue: "Entregue",
+      cancelado: "Cancelado (pagamento não identificado)",
     };
     resultEl.innerHTML = `
       <div class="summary-line"><span>Pedido</span><span>${order.id}</span></div>

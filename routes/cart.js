@@ -5,11 +5,11 @@ const shipping = require("../services/shipping");
 
 const CART_COOKIE = "dash_cart_id";
 
-function getOrCreateCart(req, res) {
+async function getOrCreateCart(req, res) {
   let cartId = req.cookies[CART_COOKIE];
-  let cart = cartId ? store.getCart(cartId) : null;
+  let cart = cartId ? await store.getCart(cartId) : null;
   if (!cart) {
-    cart = store.createCart();
+    cart = await store.createCart();
     res.cookie(CART_COOKIE, cart.id, {
       httpOnly: true,
       sameSite: "lax",
@@ -25,20 +25,20 @@ function serializeCart(cart) {
 }
 
 // GET /api/cart
-router.get("/", (req, res) => {
-  const cart = getOrCreateCart(req, res);
+router.get("/", async (req, res) => {
+  const cart = await getOrCreateCart(req, res);
   res.json(serializeCart(cart));
 });
 
 // POST /api/cart/items  { productId, size, color, qty }
-router.post("/items", (req, res) => {
-  const cart = getOrCreateCart(req, res);
+router.post("/items", async (req, res) => {
+  const cart = await getOrCreateCart(req, res);
   const { productId, size, color, qty } = req.body;
   if (!productId || !size || !qty) {
     return res.status(400).json({ error: "productId, size e qty são obrigatórios" });
   }
   try {
-    const updated = store.addCartItem(cart.id, {
+    const updated = await store.addCartItem(cart.id, {
       productId,
       size,
       color: color || null,
@@ -51,11 +51,11 @@ router.post("/items", (req, res) => {
 });
 
 // PATCH /api/cart/items  { productId, size, color, qty }
-router.patch("/items", (req, res) => {
-  const cart = getOrCreateCart(req, res);
+router.patch("/items", async (req, res) => {
+  const cart = await getOrCreateCart(req, res);
   const { productId, size, color, qty } = req.body;
   try {
-    const updated = store.updateCartItem(cart.id, {
+    const updated = await store.updateCartItem(cart.id, {
       productId,
       size,
       color: color || null,
@@ -68,11 +68,11 @@ router.patch("/items", (req, res) => {
 });
 
 // DELETE /api/cart/items  { productId, size, color }
-router.delete("/items", (req, res) => {
-  const cart = getOrCreateCart(req, res);
+router.delete("/items", async (req, res) => {
+  const cart = await getOrCreateCart(req, res);
   const { productId, size, color } = req.body;
   try {
-    const updated = store.removeCartItem(cart.id, {
+    const updated = await store.removeCartItem(cart.id, {
       productId,
       size,
       color: color || null,
@@ -84,8 +84,8 @@ router.delete("/items", (req, res) => {
 });
 
 // GET /api/cart/shipping?cep=01001000
-router.get("/shipping", (req, res) => {
-  const cart = getOrCreateCart(req, res);
+router.get("/shipping", async (req, res) => {
+  const cart = await getOrCreateCart(req, res);
   const subtotal = store.cartSubtotal(cart);
   try {
     const estimate = shipping.estimateShipping(req.query.cep, subtotal);
