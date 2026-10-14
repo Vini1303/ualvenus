@@ -27,6 +27,8 @@ app.use("/api/track", trackRouter);
 
 app.get("/api/health", (req, res) => res.json({ ok: true }));
 
+// Painel antigo (HTML) agora é o app React em /admin/
+app.get("/admin.html", (req, res) => res.redirect(301, "/admin/"));
 app.use(express.static(path.join(__dirname, "public")));
 
 store

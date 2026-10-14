@@ -45,14 +45,16 @@ function upcomingDates(now = new Date()) {
 async function getStats(days = 30) {
   const now = new Date();
   const since = new Date(now.getTime() - days * 86400000);
-  const [orders, events, catalog, sold] = await Promise.all([
-    store.getOrdersSince(since),
+  const [allOrders, events, catalog, sold] = await Promise.all([
+    store.getOrdersSince(new Date(now.getTime() - 2 * days * 86400000)),
     store.getEventCounts(since),
     Promise.resolve(store.getCatalog()),
     store.getSoldMap(),
   ]);
 
-  const byId = new Map(catalog.map((p) => [p.id, p]));
+  // allOrders cobre o período atual + o anterior (para comparação).
+  const orders = allOrders.filter((o) => new Date(o.created_at) >= since);
+  const prevLive = allOrders.filter((o) => new Date(o.created_at) < since && o.status !== "cancelado");
   const stockLeft = (p) =>
     Object.entries(p.stock || {}).reduce(
       (sum, [size, q]) => sum + Math.max(0, q - (sold.get(`${p.id}|${size}`) || 0)),
@@ -109,6 +111,7 @@ async function getStats(days = 30) {
       image: p.image,
       price: p.price,
       onSale: Boolean(p.discount_pct),
+      available: p.available !== false,
       stock: stockLeft(p),
       units: r.units,
       revenue: r.revenue,
@@ -155,7 +158,7 @@ async function getStats(days = 30) {
       suggestions.push({
         type: "promo",
         title: `${r.name}: vai ao carrinho, mas não fecha`,
-        detail: `${r.carts} adições ao carrinho e ${r.units} vendidas. Frete grátis ou um cupom pode destravar a compra.`,
+        detail: `${r.carts} adições ao carrinho e ${r.units} venda(s). Frete grátis ou um cupom pode destravar a compra.`,
         productId: r.id,
       })
     );
@@ -220,13 +223,18 @@ async function getStats(days = 30) {
       visits,
       conversion: visits ? live.length / visits : null,
       statusCount,
+      prev: {
+        orders: prevLive.length,
+        revenueAll: prevLive.reduce((t, o) => t + (o.total || 0), 0),
+      },
     },
     series,
     topSold: top("units"),
     topRevenue: top("revenue"),
     topViewed: top("views"),
     topCarted: top("carts"),
-    lowStock: rows.filter((r) => r.stock <= 3).sort((a, b) => a.stock - b.stock).slice(0, 15),
+    // Produtos "sob consulta" (available=false) têm estoque 0 de propósito.
+    lowStock: rows.filter((r) => r.available && r.stock <= 3).sort((a, b) => a.stock - b.stock).slice(0, 15),
     categories: [...cats.values()].sort((a, b) => b.revenue - a.revenue),
     suggestions,
   };

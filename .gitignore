@@ -5,3 +5,4 @@ data/orders.json
 *.log
 node_modules/
 .npm-cache/
+admin/node_modules/
