@@ -44,6 +44,7 @@ router.post("/items", async (req, res) => {
       color: color || null,
       qty: Number(qty),
     });
+    store.recordEvent("add_to_cart", productId).catch(() => {});
     res.json(serializeCart(updated));
   } catch (err) {
     res.status(400).json({ error: err.message });

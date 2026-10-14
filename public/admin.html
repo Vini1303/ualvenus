@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Painel — Vênus</title>
+<style>
+  :root {
+    --bg: #f4f4f6; --card: #fff; --ink: #111114; --muted: #6c6c76; --line: #e7e7ea;
+    --accent: #ff3d2e; --ok: #1aa260; --warn: #d98a00; --bar: #3a4a78;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #0e0e11; --card: #18181c; --ink: #f2f2f4; --muted: #9a9aa6; --line: #2a2a31; --bar: #7b8fd6; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: Inter, -apple-system, "Segoe UI", sans-serif; background: var(--bg); color: var(--ink); }
+  header { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; padding: 14px 16px; background: var(--card); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 5; }
+  header h1 { font-size: 18px; margin: 0; }
+  nav { display: flex; gap: 6px; flex-wrap: wrap; }
+  button, select, input { font: inherit; color: inherit; }
+  nav button, .btn { border: 1px solid var(--line); background: var(--card); padding: 8px 12px; border-radius: 8px; cursor: pointer; }
+  nav button.on { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .btn.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .btn.small { padding: 4px 8px; font-size: 12px; }
+  select, input { border: 1px solid var(--line); background: var(--card); padding: 8px 10px; border-radius: 8px; }
+  main { max-width: 1200px; margin: 0 auto; padding: 16px; }
+  .grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); margin-bottom: 16px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+  .kpi .label { color: var(--muted); font-size: 12px; }
+  .kpi .value { font-size: 24px; font-weight: 700; margin-top: 4px; }
+  .kpi .sub { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  h2 { font-size: 15px; margin: 0 0 10px; }
+  .cols { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); margin-bottom: 12px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { text-align: left; padding: 7px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { color: var(--muted); font-weight: 500; font-size: 12px; }
+  td.n, th.n { text-align: right; white-space: nowrap; }
+  .scroll { overflow-x: auto; }
+  .pname { display: flex; gap: 8px; align-items: center; min-width: 160px; }
+  .pname img { width: 34px; height: 34px; object-fit: cover; border-radius: 6px; background: var(--line); flex: none; }
+  .chart { display: flex; align-items: flex-end; gap: 2px; height: 120px; }
+  .chart div { flex: 1; background: var(--bar); border-radius: 2px 2px 0 0; min-height: 1px; opacity: .85; }
+  .chart-axis { display: flex; justify-content: space-between; color: var(--muted); font-size: 11px; margin-top: 4px; }
+  .tag { display: inline-block; padding: 2px 8px; border-radius: 99px; font-size: 11px; background: var(--line); }
+  .tag.promo { background: #ffe2df; color: #b3261e; } .tag.estoque { background: #fff0cc; color: #8a5a00; }
+  .tag.parado { background: #e3e8f7; color: #2c3e7a; } .tag.destaque { background: #d8f3e5; color: #11693f; }
+  .tag.calendario { background: #efe3f7; color: #5b2a78; }
+  .sug { padding: 10px 0; border-bottom: 1px solid var(--line); }
+  .sug:last-child { border: 0; } .sug b { display: block; margin: 4px 0 2px; } .sug span { color: var(--muted); font-size: 13px; }
+  .muted { color: var(--muted); } .empty { color: var(--muted); padding: 10px 0; font-size: 13px; }
+  .notice { background: #fff6dd; color: #6b4b00; border: 1px solid #f0d98a; border-radius: 10px; padding: 10px 12px; margin-bottom: 12px; font-size: 13px; }
+  .order { display: grid; gap: 6px; }
+  .order-head { display: flex; flex-wrap: wrap; gap: 8px; justify-content: space-between; align-items: center; }
+  #login { max-width: 360px; margin: 14vh auto; }
+  #login form { display: grid; gap: 10px; } .err { color: var(--accent); font-size: 13px; min-height: 18px; }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+
+<div id="login" class="card" hidden>
+  <h2>Painel do lojista</h2>
+  <form id="loginForm">
+    <input id="tokenInput" type="password" placeholder="Token de administrador" autocomplete="current-password" required>
+    <button class="btn primary" type="submit">Entrar</button>
+    <div class="err" id="loginErr"></div>
+  </form>
+</div>
+
+<div id="app" hidden>
+  <header>
+    <h1>Painel — Vênus</h1>
+    <nav id="tabs">
+      <button data-tab="resumo" class="on">Resumo</button>
+      <button data-tab="pedidos">Pedidos</button>
+      <button data-tab="produtos">Produtos</button>
+      <button data-tab="sugestoes">Sugestões</button>
+    </nav>
+    <div>
+      <select id="period">
+        <option value="7">Últimos 7 dias</option>
+        <option value="30" selected>Últimos 30 dias</option>
+        <option value="90">Últimos 90 dias</option>
+        <option value="365">Último ano</option>
+      </select>
+      <button class="btn" id="reload">Atualizar</button>
+      <button class="btn" id="logout">Sair</button>
+    </div>
+  </header>
+  <main id="content"><p class="muted">Carregando…</p></main>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const esc = (v) => String(v ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const brl = (v) => (v || 0).toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
+const pct = (v) => (v == null ? "—" : (v * 100).toLocaleString("pt-BR", { maximumFractionDigits: 1 }) + "%");
+const STATUS = { aguardando_pagamento: "Aguardando pagamento", pago: "Pago", enviado: "Enviado", entregue: "Entregue", cancelado: "Cancelado" };
+const SUG_LABEL = { promo: "Promoção", estoque: "Reposição", parado: "Estoque parado", destaque: "Destaque", calendario: "Calendário" };
+
+let token = "", tab = "resumo", stats = null, orders = null;
+
+function store(set) {
+  try { set === null ? sessionStorage.removeItem("adm") : set !== undefined ? sessionStorage.setItem("adm", set) : 0; return sessionStorage.getItem("adm") || ""; } catch (e) { return set || ""; }
+}
+
+async function api(path, opts = {}) {
+  const res = await fetch(path, { ...opts, headers: { "x-admin-token": token, "Content-Type": "application/json" } });
+  if (res.status === 401) { const e = new Error("Token inválido"); e.auth = true; throw e; }
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(data.error || "Erro " + res.status);
+  return data;
+}
+
+function showLogin(msg) {
+  $("app").hidden = true; $("login").hidden = false; $("loginErr").textContent = msg || "";
+}
+
+async function load() {
+  const days = $("period").value;
+  $("content").innerHTML = '<p class="muted">Carregando…</p>';
+  try {
+    [stats, orders] = await Promise.all([api(`/api/admin/stats?days=${days}`), api("/api/admin/orders")]);
+    $("login").hidden = true; $("app").hidden = false;
+    render();
+  } catch (err) {
+    if (err.auth) { store(null); token = ""; showLogin("Token inválido ou painel desativado (ADMIN_TOKEN não definido)."); }
+    else { $("app").hidden = false; $("content").innerHTML = `<div class="notice">${esc(err.message)}</div>`; }
+  }
+}
+
+function pname(p) {
+  return `<div class="pname"><img src="${esc(p.image)}" alt="" loading="lazy"><span>${esc(p.name)}</span></div>`;
+}
+
+function table(head, rows, empty = "Sem dados no período.") {
+  if (!rows.length) return `<div class="empty">${empty}</div>`;
+  return `<div class="scroll"><table><thead><tr>${head.map((h, i) => `<th class="${h[1] ? "n" : ""}">${h[0]}</th>`).join("")}</tr></thead><tbody>${rows.join("")}</tbody></table></div>`;
+}
+
+function renderResumo() {
+  const s = stats.summary, max = Math.max(1, ...stats.series.map((d) => d.revenue));
+  const kpi = (l, v, sub = "") => `<div class="card kpi"><div class="label">${l}</div><div class="value">${v}</div><div class="sub">${sub}</div></div>`;
+  const first = stats.series[0]?.day.slice(5).split("-").reverse().join("/"), last = stats.series.at(-1)?.day.slice(5).split("-").reverse().join("/");
+  return `
+    ${stats.dataPoor ? '<div class="notice">Ainda há poucos dados no período. Os números e as sugestões ficam mais úteis conforme a loja recebe visitas e pedidos.</div>' : ""}
+    <div class="grid">
+      ${kpi("Vendas (pedidos)", s.orders, `${s.units} unidades`)}
+      ${kpi("Faturamento", brl(s.revenueAll), "pedidos não cancelados")}
+      ${kpi("Pago / confirmado", brl(s.revenueConfirmed), "pago, enviado ou entregue")}
+      ${kpi("A receber", brl(s.revenuePending), `${s.statusCount.aguardando_pagamento || 0} aguardando pagamento`)}
+      ${kpi("Ticket médio", brl(s.avgTicket))}
+      ${kpi("Visitantes", s.visits, "sessões no site")}
+      ${kpi("Conversão", pct(s.conversion), "pedidos ÷ visitas")}
+      ${kpi("Cancelados", s.cancelled, "inclui os de 2h sem pagamento")}
+    </div>
+    <div class="card" style="margin-bottom:12px">
+      <h2>Faturamento por dia</h2>
+      <div class="chart">${stats.series.map((d) => `<div title="${esc(d.day)}: ${brl(d.revenue)} (${d.orders} pedido(s))" style="height:${Math.round((d.revenue / max) * 100)}%"></div>`).join("")}</div>
+      <div class="chart-axis"><span>${first}</span><span>${last}</span></div>
+    </div>
+    <div class="cols">
+      <div class="card"><h2>Mais vendidos</h2>${table([["Produto"], ["Un.", 1], ["Receita", 1]], stats.topSold.map((p) => `<tr><td>${pname(p)}</td><td class="n">${p.units}</td><td class="n">${brl(p.revenue)}</td></tr>`))}</div>
+      <div class="card"><h2>Categorias</h2>${table([["Categoria"], ["Un.", 1], ["Receita", 1], ["Views", 1]], stats.categories.filter((c) => c.units || c.views).map((c) => `<tr><td>${esc(c.category)}</td><td class="n">${c.units}</td><td class="n">${brl(c.revenue)}</td><td class="n">${c.views}</td></tr>`))}</div>
+    </div>`;
+}
+
+function renderProdutos() {
+  return `
+    <div class="cols">
+      <div class="card"><h2>Mais visualizados</h2>${table([["Produto"], ["Views", 1], ["No carrinho", 1], ["Vendas", 1], ["Conv.", 1]], stats.topViewed.map((p) => `<tr><td>${pname(p)}</td><td class="n">${p.views}</td><td class="n">${p.carts}</td><td class="n">${p.units}</td><td class="n">${pct(p.conversion)}</td></tr>`), "Ainda sem visualizações registradas.")}</div>
+      <div class="card"><h2>Mais adicionados ao carrinho</h2>${table([["Produto"], ["Carrinho", 1], ["Vendas", 1]], stats.topCarted.map((p) => `<tr><td>${pname(p)}</td><td class="n">${p.carts}</td><td class="n">${p.units}</td></tr>`), "Ainda sem dados.")}</div>
+    </div>
+    <div class="card"><h2>Estoque baixo (3 ou menos unidades)</h2>${table([["Produto"], ["Categoria"], ["Estoque", 1], ["Vendidos", 1]], stats.lowStock.map((p) => `<tr><td>${pname(p)}</td><td>${esc(p.category)}</td><td class="n">${p.stock}</td><td class="n">${p.units}</td></tr>`), "Nenhum produto com estoque baixo.")}</div>`;
+}
+
+function renderSugestoes() {
+  return `<div class="card"><h2>Sugestões</h2>
+    <p class="muted" style="font-size:12px;margin-top:0">Geradas por regras sobre as vendas, visualizações e estoque da sua loja e pelo calendário de datas comerciais. Não consultam preços de concorrentes nem tendências em tempo real.</p>
+    ${stats.suggestions.length ? stats.suggestions.map((s) => `<div class="sug"><span class="tag ${esc(s.type)}">${esc(SUG_LABEL[s.type] || s.type)}</span><b>${esc(s.title)}</b><span>${esc(s.detail)}</span></div>`).join("") : '<div class="empty">Nenhuma sugestão por enquanto.</div>'}
+  </div>`;
+}
+
+function renderPedidos() {
+  if (!orders.length) return '<div class="card empty">Nenhum pedido ainda.</div>';
+  return orders.map((o) => {
+    const a = o.address || {}, c = o.customer || {};
+    const phone = String(c.phone || "").replace(/\D/g, "");
+    const wa = phone ? `https://wa.me/${phone.length <= 11 ? "55" + phone : phone}?text=${encodeURIComponent("Olá " + (c.name || "") + "! Sobre o pedido " + o.id)}` : "";
+    return `<div class="card order" style="margin-bottom:10px">
+      <div class="order-head">
+        <div><b>${esc(o.id)}</b> <span class="muted">· ${new Date(o.created_at).toLocaleString("pt-BR")}</span></div>
+        <div>
+          <select data-status="${esc(o.id)}">${Object.entries(STATUS).map(([k, v]) => `<option value="${k}" ${k === o.status ? "selected" : ""}>${v}</option>`).join("")}</select>
+        </div>
+      </div>
+      <div>${esc(c.name)} · ${esc(c.email)} · ${esc(c.phone)} ${wa ? `<a href="${esc(wa)}" target="_blank" rel="noopener">WhatsApp</a>` : ""}</div>
+      <div class="muted">${esc(a.street)}, ${esc(a.number)}${a.complement ? " " + esc(a.complement) : ""} · ${esc(a.neighborhood)} · ${esc(a.city)}/${esc(a.state)} · CEP ${esc(a.cep)}</div>
+      <div>${(o.items || []).map((i) => `${i.qty}× ${esc(i.name)} (${esc(i.size)}${i.color ? ", " + esc(i.color) : ""})`).join("<br>")}</div>
+      <div><b>${brl(o.total)}</b> <span class="muted">· frete ${o.shipping?.cost ? brl(o.shipping.cost) : "grátis"}</span></div>
+    </div>`;
+  }).join("");
+}
+
+function render() {
+  $("content").innerHTML = { resumo: renderResumo, pedidos: renderPedidos, produtos: renderProdutos, sugestoes: renderSugestoes }[tab]();
+  document.querySelectorAll("#tabs button").forEach((b) => b.classList.toggle("on", b.dataset.tab === tab));
+}
+
+$("tabs").addEventListener("click", (e) => { if (e.target.dataset.tab) { tab = e.target.dataset.tab; render(); } });
+$("period").addEventListener("change", load);
+$("reload").addEventListener("click", load);
+$("logout").addEventListener("click", () => { store(null); token = ""; showLogin(); });
+$("loginForm").addEventListener("submit", (e) => { e.preventDefault(); token = $("tokenInput").value.trim(); store(token); $("tokenInput").value = ""; load(); });
+$("content").addEventListener("change", async (e) => {
+  const id = e.target.dataset.status;
+  if (!id) return;
+  if (e.target.value === "cancelado" && !confirm(`Cancelar o pedido ${id}? O estoque será devolvido.`)) { render(); return; }
+  try { await api(`/api/admin/orders/${encodeURIComponent(id)}`, { method: "PATCH", body: JSON.stringify({ status: e.target.value }) }); await load(); }
+  catch (err) { alert(err.message); render(); }
+});
+
+token = store();
+token ? load() : showLogin();
+</script>
+</body>
+</html>

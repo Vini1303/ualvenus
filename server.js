@@ -8,11 +8,13 @@ const productsRouter = require("./routes/products");
 const cartRouter = require("./routes/cart");
 const checkoutRouter = require("./routes/checkout");
 const adminRouter = require("./routes/admin");
+const trackRouter = require("./routes/track");
 const store = require("./db/store");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+app.set("trust proxy", 1); // Render fica atrás de um proxy (IP real em req.ip)
 app.use(cors({ origin: process.env.SITE_URL || true, credentials: true }));
 app.use(express.json());
 app.use(cookieParser());
@@ -21,6 +23,7 @@ app.use("/api/products", productsRouter);
 app.use("/api/cart", cartRouter);
 app.use("/api/checkout", checkoutRouter);
 app.use("/api/admin", adminRouter);
+app.use("/api/track", trackRouter);
 
 app.get("/api/health", (req, res) => res.json({ ok: true }));
 

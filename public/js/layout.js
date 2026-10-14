@@ -193,6 +193,7 @@ document.addEventListener("DOMContentLoaded", () => {
   renderHeader();
   renderFooter();
   Cart.refresh();
+  trackOnce("visit", { type: "visit" });
   Api.get("/api/products/categories").then((categories) => {
     NAV_CATEGORIES = categories.map((cat) => ({ label: cat, cat }));
     const links = NAV_CATEGORIES.map((c) =>

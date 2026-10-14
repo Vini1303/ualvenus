@@ -206,6 +206,7 @@ async function initProductPage() {
     const product = await Api.get(`/api/products/${encodeURIComponent(slug)}`);
     renderProduct(product);
     loadRelated(product);
+    trackOnce(`view:${product.id}`, { type: "view", productId: product.id });
   } catch (err) {
     document.getElementById("productDetail").innerHTML = `<div class="empty-state"><h2>Produto não encontrado</h2><p>${err.message}</p></div>`;
   }

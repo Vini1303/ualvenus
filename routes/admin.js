@@ -2,6 +2,7 @@ const crypto = require("crypto");
 const express = require("express");
 const router = express.Router();
 const store = require("../db/store");
+const analytics = require("../services/analytics");
 
 const STATUSES = ["aguardando_pagamento", "pago", "enviado", "entregue", "cancelado"];
 
@@ -15,6 +16,12 @@ router.use((req, res, next) => {
     crypto.timingSafeEqual(Buffer.from(given), Buffer.from(expected));
   if (!ok) return res.status(401).json({ error: "Não autorizado" });
   next();
+});
+
+// GET /api/admin/stats?days=30
+router.get("/stats", async (req, res) => {
+  const days = Math.min(365, Math.max(1, parseInt(req.query.days, 10) || 30));
+  res.json(await analytics.getStats(days));
 });
 
 // GET /api/admin/orders?status=pago

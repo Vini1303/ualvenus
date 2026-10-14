@@ -51,6 +51,12 @@ async function init() {
       sold INTEGER NOT NULL DEFAULT 0,
       PRIMARY KEY (product_id, size)
     );
+    CREATE TABLE IF NOT EXISTS events (
+      type TEXT NOT NULL,
+      product_id TEXT,
+      created_at TIMESTAMPTZ NOT NULL DEFAULT now()
+    );
+    CREATE INDEX IF NOT EXISTS events_created_idx ON events (created_at);
   `);
 }
 
@@ -319,6 +325,38 @@ async function updateOrderStatus(orderNumber, status, { onlyIfStatus } = {}) {
   }
 }
 
+// ---------- Métricas ----------
+
+// Eventos anônimos (sem dados pessoais): visit, view, add_to_cart.
+async function recordEvent(type, productId = null) {
+  await pool.query("INSERT INTO events (type, product_id) VALUES ($1, $2)", [type, productId]);
+}
+
+async function getEventCounts(since) {
+  const { rows } = await pool.query(
+    `SELECT type, product_id, COUNT(*) AS n FROM events
+     WHERE created_at >= $1 GROUP BY type, product_id`,
+    [since]
+  );
+  return rows.map((r) => ({ type: r.type, productId: r.product_id, n: Number(r.n) }));
+}
+
+async function getOrdersSince(since) {
+  const { rows } = await pool.query(
+    "SELECT status, data FROM orders WHERE created_at >= $1 ORDER BY created_at DESC",
+    [since]
+  );
+  return rows.map((r) => ({ ...r.data, status: r.status }));
+}
+
+function getCatalog() {
+  return PRODUCTS.filter((p) => p.published !== false);
+}
+
+async function getSoldMap() {
+  return soldMap();
+}
+
 // Cancela pedidos sem pagamento após `hours` horas e devolve o estoque.
 async function cancelExpiredOrders(hours = 2) {
   const { rows } = await pool.query(
@@ -336,6 +374,11 @@ async function cancelExpiredOrders(hours = 2) {
 
 module.exports = {
   init,
+  recordEvent,
+  getEventCounts,
+  getOrdersSince,
+  getCatalog,
+  getSoldMap,
   cancelExpiredOrders,
   _setPool,
   getProducts,

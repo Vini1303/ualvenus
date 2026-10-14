@@ -64,3 +64,17 @@ function showToast(message) {
   clearTimeout(toast._timer);
   toast._timer = setTimeout(() => toast.classList.remove("show"), 2200);
 }
+
+// Evento anônimo para o painel do lojista; no máximo 1x por sessão e item.
+function trackOnce(key, body) {
+  try {
+    if (sessionStorage.getItem(key)) return;
+    sessionStorage.setItem(key, "1");
+  } catch (e) {}
+  fetch("/api/track", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body),
+    keepalive: true,
+  }).catch(() => {});
+}
