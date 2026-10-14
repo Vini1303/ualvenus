@@ -1,0 +1,24 @@
+﻿Calça Jeans Lexy
+================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Jeans Claro
+Nome completo: Calça Jeans Lexy Jeans Claro
+Preco: R$ 115,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10371695
+ID da variacao: 30839141
+Pagina do produto: https://www.zafiraatacado.com/calca-jeans-lexy/jeans-claro
+Imagens previstas:
+  Arquivo: Jeans Claro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/30-frvfu_1365x2048+crop_center.jpg?v=1782664986&webp=0
+  Arquivo: Jeans Claro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/31-mn8aq_1365x2048+crop_center.jpg?v=1782664987&webp=0
+
+------------------------------------------------------------

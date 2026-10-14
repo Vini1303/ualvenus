@@ -1,0 +1,104 @@
+﻿Cropped Blossom Poliamida
+=========================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Marrom
+Nome completo: Cropped Blossom Poliamida Marrom
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7629913
+ID da variacao: 26489978
+Pagina do produto: https://www.zafiraatacado.com/cropped-blossom-poliamida/marrom
+Imagens previstas:
+  Arquivo: Marrom - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/16-nskgy_1365x2048+crop_center.jpg?v=1777476574&webp=0
+  Arquivo: Marrom - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/17-fzj59_1365x2048+crop_center.jpg?v=1777476575&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Cropped Blossom Poliamida Vinho
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7629913
+ID da variacao: 26350139
+Pagina do produto: https://www.zafiraatacado.com/cropped-blossom-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-tqzl5_1365x2048+crop_center.jpg?v=1777476568&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/4-46oow_1365x2048+crop_center.jpg?v=1777476569&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Cinza
+Nome completo: Cropped Blossom Poliamida Cinza
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7629913
+ID da variacao: 23950935
+Pagina do produto: https://www.zafiraatacado.com/cropped-blossom-poliamida/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/n273-9-5_1365x2048+crop_center.jpg?v=1760121370&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/n273-9-3_1365x2048+crop_center.jpg?v=1760121367&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Cropped Blossom Poliamida Off White
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7629913
+ID da variacao: 23878127
+Pagina do produto: https://www.zafiraatacado.com/cropped-blossom-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/11-swud9_1365x2048+crop_center.jpg?v=1777476572&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/12-apyg3_1365x2048+crop_center.jpg?v=1777476572&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Verde Menta
+Nome completo: Cropped Blossom Poliamida Verde Menta
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7629913
+ID da variacao: 22326020
+Pagina do produto: https://www.zafiraatacado.com/cropped-blossom-poliamida/verde-menta
+Imagens previstas:
+  Arquivo: Verde Menta - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/8-dswvn_1365x2048+crop_center.jpg?v=1777476616&webp=0
+  Arquivo: Verde Menta - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/9-lgqat_1365x2048+crop_center.jpg?v=1777476570&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Blossom Poliamida Preto
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7629913
+ID da variacao: 22326019
+Pagina do produto: https://www.zafiraatacado.com/cropped-blossom-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/n273-28-1_1365x2048+crop_center.jpg?v=1760121312&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/n273-28-2_1365x2048+crop_center.jpg?v=1760121314&webp=0
+
+------------------------------------------------------------

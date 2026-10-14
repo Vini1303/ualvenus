@@ -1,0 +1,25 @@
+﻿Calça Jeans Londres
+===================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Jeans
+Nome completo: Calça Jeans Londres Jeans
+Preco: R$ 75,00
+Preco anterior exibido: R$ 95,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10334552
+ID da variacao: 30092896
+Pagina do produto: https://www.zafiraatacado.com/calca-jeans-londres/jeans
+Imagens previstas:
+  Arquivo: Jeans - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/22-gaoqd_1365x2048+crop_center.jpg?v=1780845924&webp=0
+  Arquivo: Jeans - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/23-30qdn_1365x2048+crop_center.jpg?v=1780845925&webp=0
+
+------------------------------------------------------------

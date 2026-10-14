@@ -1,0 +1,104 @@
+﻿Body Nataly Poliamida
+=====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Body Nataly Poliamida Vinho
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10510950
+ID da variacao: 30754409
+Pagina do produto: https://www.zafiraatacado.com/body-nataly-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/10-utot3_1365x2048+crop_center.jpg?v=1789148492&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/11-sfywd_1365x2048+crop_center.jpg?v=1789148492&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Marrom Escuro
+Nome completo: Body Nataly Poliamida Marrom Escuro
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10510950
+ID da variacao: 30754410
+Pagina do produto: https://www.zafiraatacado.com/body-nataly-poliamida/marrom-escuro
+Imagens previstas:
+  Arquivo: Marrom Escuro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-eokkl_1365x2048+crop_center.jpg?v=1789148488&webp=0
+  Arquivo: Marrom Escuro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-l7kfx_1365x2048+crop_center.jpg?v=1789148488&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Onça
+Nome completo: Body Nataly Poliamida Onça
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10510950
+ID da variacao: 30754408
+Pagina do produto: https://www.zafiraatacado.com/body-nataly-poliamida/onca
+Imagens previstas:
+  Arquivo: Onça - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/img-6750-bsw1c_1365x2048+crop_center.jpg?v=1789148481&webp=0
+  Arquivo: Onça - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/img-6751-xyz6z_1365x2048+crop_center.jpg?v=1789148482&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Amarelo Bebe
+Nome completo: Body Nataly Poliamida Amarelo Bebe
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10510950
+ID da variacao: 30684810
+Pagina do produto: https://www.zafiraatacado.com/body-nataly-poliamida/amarelo-bebe
+Imagens previstas:
+  Arquivo: Amarelo Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/14-uyb36_1365x2048+crop_center.jpg?v=1786996790&webp=0
+  Arquivo: Amarelo Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/15-0l4ew_1365x2048+crop_center.jpg?v=1786996789&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Nataly Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10510950
+ID da variacao: 30684809
+Pagina do produto: https://www.zafiraatacado.com/body-nataly-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/8-enrye_1365x2048+crop_center.jpg?v=1786996781&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/9-e8vzc_1365x2048+crop_center.jpg?v=1786996782&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Body Nataly Poliamida Off White
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10510950
+ID da variacao: 30684808
+Pagina do produto: https://www.zafiraatacado.com/body-nataly-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-zh2ar_1365x2048+crop_center.jpg?v=1786996785&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-puj1c_1365x2048+crop_center.jpg?v=1786996786&webp=0
+
+------------------------------------------------------------

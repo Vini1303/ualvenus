@@ -1,0 +1,70 @@
+﻿Top Star Paete
+==============
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Top Star Paete Vinho
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9931003
+ID da variacao: 28878997
+Pagina do produto: https://www.zafiraatacado.com/top-star-paete/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/img-8853-gntox_1365x2048+crop_center.jpg?v=1786537004&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/img-8856-hd5zz_1365x2048+crop_center.jpg?v=1786537003&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Top Star Paete Preto
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9931003
+ID da variacao: 28878993
+Pagina do produto: https://www.zafiraatacado.com/top-star-paete/preto
+Imagens previstas:
+  Arquivo: Preto - 01.png
+  URL: https://cdn.dooca.store/160985/products/v1y7ch5wsp2iegnnroklr7qabkbg6zcexhtk_1365x2048+crop_center.png?v=1770325015&webp=0
+  Arquivo: Preto - 02.png
+  URL: https://cdn.dooca.store/160985/products/hzjzppoktx5gc8seurfafqk7mrpdknxzcwkm_1365x2048+crop_center.png?v=1770325020&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Marinho
+Nome completo: Top Star Paete Marinho
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9931003
+ID da variacao: 28878987
+Pagina do produto: https://www.zafiraatacado.com/top-star-paete/marinho
+Imagens previstas:
+  Arquivo: Marinho - 01.png
+  URL: https://cdn.dooca.store/160985/products/lm1bos1qwe3sjxuewjyzkjfssy5fq0tvit9j_1365x2048+crop_center.png?v=1770325016&webp=0
+  Arquivo: Marinho - 02.png
+  URL: https://cdn.dooca.store/160985/products/hzjzppoktx5gc8seurfafqk7mrpdknxzcwkm_1365x2048+crop_center.png?v=1770325020&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Amarelo
+Nome completo: Top Star Paete Amarelo
+Preco: R$ 28,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 9931003
+ID da variacao: 29013367
+Pagina do produto: https://www.zafiraatacado.com/top-star-paete/amarelo
+Imagens previstas:
+  Arquivo: Amarelo - 01.png
+  URL: https://cdn.dooca.store/160985/products/ovkot1ssfpmlngbnn63dbg0u301zimj5wgkg_1365x2048+crop_center.png?v=1770325021000&webp=0
+
+------------------------------------------------------------

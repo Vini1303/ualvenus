@@ -1,0 +1,40 @@
+﻿Saia Lizzy Paete
+================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto/Dourado
+Nome completo: Saia Lizzy Paete Preto/Dourado
+Preco: R$ 48,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10146598
+ID da variacao: 29539484
+Pagina do produto: https://www.zafiraatacado.com/saia-lizzy-paete/pretodourado
+Imagens previstas:
+  Arquivo: Preto-Dourado - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/capa-saia-lizzy-iqn8g_1365x2048+crop_center.jpg?v=1776455048&webp=0
+  Arquivo: Preto-Dourado - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/img-2405jpg-sqvoz_1365x2048+crop_center.jpg?v=1776455048&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto/Verde
+Nome completo: Saia Lizzy Paete Preto/Verde
+Preco: R$ 48,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10146598
+ID da variacao: 29539483
+Pagina do produto: https://www.zafiraatacado.com/saia-lizzy-paete/pretoverde
+Imagens previstas:
+  Arquivo: Preto-Verde - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/capa-saia-lizzy-5xf9o_1365x2048+crop_center.jpg?v=1776455073&webp=0
+  Arquivo: Preto-Verde - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/img-2414-p6tvo_1365x2048+crop_center.jpg?v=1776455074&webp=0
+
+------------------------------------------------------------

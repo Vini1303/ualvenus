@@ -1,0 +1,40 @@
+﻿Body Kika Poliamida
+===================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Off White
+Nome completo: Body Kika Poliamida Off White
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10035037
+ID da variacao: 29180094
+Pagina do produto: https://www.zafiraatacado.com/body-kika-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/2-zsrn9_1365x2048+crop_center.jpg?v=1785510497&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/3-1zoos_1365x2048+crop_center.jpg?v=1785510498&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Kika Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10035037
+ID da variacao: 29180093
+Pagina do produto: https://www.zafiraatacado.com/body-kika-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/52-yggi5_1365x2048+crop_center.jpg?v=1785499030&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/53-drqbw_1365x2048+crop_center.jpg?v=1785499030&webp=0
+
+------------------------------------------------------------

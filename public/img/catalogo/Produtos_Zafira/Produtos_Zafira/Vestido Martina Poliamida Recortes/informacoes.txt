@@ -1,0 +1,59 @@
+﻿Vestido Martina Poliamida Recortes
+==================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Vestido Martina Poliamida Recortes Preto
+Preco: R$ 30,00
+Preco anterior exibido: R$ 50,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9231160
+ID da variacao: 26810581
+Pagina do produto: https://www.zafiraatacado.com/vestido-martina-poliamida-recortes/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-bp9vy_1365x2048+crop_center.jpg?v=1777042821&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/5-5ygaq_1365x2048+crop_center.jpg?v=1777042822&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Vestido Martina Poliamida Recortes Off White
+Preco: R$ 30,00
+Preco anterior exibido: R$ 50,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9231160
+ID da variacao: 26810580
+Pagina do produto: https://www.zafiraatacado.com/vestido-martina-poliamida-recortes/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/8-gli3i_1365x2048+crop_center.jpg?v=1777042826&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/13-vq6hl_1365x2048+crop_center.jpg?v=1777042827&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Cinza
+Nome completo: Vestido Martina Poliamida Recortes Cinza
+Preco: R$ 30,00
+Preco anterior exibido: R$ 50,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9231160
+ID da variacao: 26810579
+Pagina do produto: https://www.zafiraatacado.com/vestido-martina-poliamida-recortes/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/16-2rpub_1365x2048+crop_center.jpg?v=1777042831&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/20-0jlyd_1365x2048+crop_center.jpg?v=1777042831&webp=0
+
+------------------------------------------------------------

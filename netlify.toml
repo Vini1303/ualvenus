@@ -1,0 +1,22 @@
+[build]
+  command = "node scripts/build-static.js"
+  publish = "public"
+
+# A API do Express não existe no Netlify: serve os JSON estáticos no lugar.
+[[redirects]]
+  from = "/api/products/categories"
+  to = "/data/categories.json"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/products/:slug"
+  to = "/data/products/:slug.json"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/products"
+  to = "/data/products.json"
+  status = 200
+  force = true

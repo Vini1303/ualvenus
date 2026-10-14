@@ -1,0 +1,24 @@
+﻿Vestido Paloma Tule Psicodélico
+===============================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Rosa
+Nome completo: Vestido Paloma Tule Psicodélico Rosa
+Preco: R$ 45,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7557635
+ID da variacao: 22124054
+Pagina do produto: https://www.zafiraatacado.com/vestido-paloma-tule-psicodelico/rosa
+Imagens previstas:
+  Arquivo: Rosa - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/52010-29-1_1365x2048+crop_center.jpg?v=1731135865&webp=0
+  Arquivo: Rosa - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/52010-29-2_1365x2048+crop_center.jpg?v=1731135867&webp=0
+
+------------------------------------------------------------

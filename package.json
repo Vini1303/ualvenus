@@ -1,0 +1,21 @@
+{
+  "name": "dash-imports",
+  "version": "1.0.0",
+  "description": "Loja Dash Imports - tenis e streetwear (HTML/CSS/JS + Node/Express)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "uuid": "^14.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,24 @@
+﻿Shorts Lira Courino
+===================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Cor nao informada no codigo
+Nome completo: Shorts Lira Courino
+Preco: R$ 55,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10127507
+ID da variacao: 29470230
+Pagina do produto: https://www.zafiraatacado.com/short-lira-courino
+Imagens previstas:
+  Arquivo: Cor nao informada - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/49-vobio_1365x2048+crop_center.jpg?v=1777563677&webp=0
+  Arquivo: Cor nao informada - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/54-yxkfp_1365x2048+crop_center.jpg?v=1777563678&webp=0
+
+------------------------------------------------------------

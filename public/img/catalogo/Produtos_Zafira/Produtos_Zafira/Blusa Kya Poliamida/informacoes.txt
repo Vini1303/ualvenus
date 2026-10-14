@@ -1,0 +1,56 @@
+﻿Blusa Kya Poliamida
+===================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Blusa Kya Poliamida Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10328045
+ID da variacao: 30074554
+Pagina do produto: https://www.zafiraatacado.com/blusa-kia-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/5-glthj_1365x2048+crop_center.jpg?v=1783264104&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/6-4p2h5_1365x2048+crop_center.jpg?v=1783264105&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Blusa Kya Poliamida Off White
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10328045
+ID da variacao: 30074556
+Pagina do produto: https://www.zafiraatacado.com/blusa-kia-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/11-lia80_1365x2048+crop_center.jpg?v=1783264107&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/13-gown7_1365x2048+crop_center.jpg?v=1783264107&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Blusa Kya Poliamida Vinho
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10328045
+ID da variacao: 30074555
+Pagina do produto: https://www.zafiraatacado.com/blusa-kia-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-whqfq_1365x2048+crop_center.jpg?v=1783264103&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-3b8de_1365x2048+crop_center.jpg?v=1783264103&webp=0
+
+------------------------------------------------------------

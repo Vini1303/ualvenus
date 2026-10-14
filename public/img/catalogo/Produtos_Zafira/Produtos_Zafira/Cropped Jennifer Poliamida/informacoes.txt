@@ -1,0 +1,40 @@
+﻿Cropped Jennifer Poliamida
+==========================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Verde Neo Mint
+Nome completo: Cropped Jennifer Poliamida Verde Neo Mint
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9337308
+ID da variacao: 27157173
+Pagina do produto: https://www.zafiraatacado.com/cropped-jennifer-poliamida/verde-menta-3
+Imagens previstas:
+  Arquivo: Verde Neo Mint - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/38-2-rflho_1365x2048+crop_center.jpg?v=1777579336&webp=0
+  Arquivo: Verde Neo Mint - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/41-2-byets_1365x2048+crop_center.jpg?v=1777579337&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Cropped Jennifer Poliamida Rosa Bebe
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9337308
+ID da variacao: 27157172
+Pagina do produto: https://www.zafiraatacado.com/cropped-jennifer-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/49-2-tkdyk_1365x2048+crop_center.jpg?v=1777579342&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/48-2-j3ufb_1365x2048+crop_center.jpg?v=1777579343&webp=0
+
+------------------------------------------------------------

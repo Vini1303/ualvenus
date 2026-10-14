@@ -1,0 +1,40 @@
+﻿Blusa Yas Poliamida
+===================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Azul Royal
+Nome completo: Blusa Yas Poliamida Azul Royal
+Preco: R$ 36,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10385320
+ID da variacao: 30268816
+Pagina do produto: https://www.zafiraatacado.com/blusa-yas-poliamida/azul-royal
+Imagens previstas:
+  Arquivo: Azul Royal - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/6-srsj0_1365x2048+crop_center.jpg?v=1782912499&webp=0
+  Arquivo: Azul Royal - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/7-hlc1f_1365x2048+crop_center.jpg?v=1782912499&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Blusa Yas Poliamida Preto
+Preco: R$ 36,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10385320
+ID da variacao: 30268814
+Pagina do produto: https://www.zafiraatacado.com/blusa-yas-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-m8nai_1365x2048+crop_center.jpg?v=1782912497&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-pyv24_1365x2048+crop_center.jpg?v=1782912497&webp=0
+
+------------------------------------------------------------

@@ -1,0 +1,24 @@
+﻿Blusa Vivian Poliamida Com Zíper Gola
+=====================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Blusa Vivian Poliamida Com Zíper Gola Vinho
+Preco: R$ 42,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9038429
+ID da variacao: 26218991
+Pagina do produto: https://www.zafiraatacado.com/blusa-vivian-poliamida-com-ziper-gola/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/370-37-1_1365x2048+crop_center.jpg?v=1755784988&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/370-37-2_1365x2048+crop_center.jpg?v=1755784990&webp=0
+
+------------------------------------------------------------

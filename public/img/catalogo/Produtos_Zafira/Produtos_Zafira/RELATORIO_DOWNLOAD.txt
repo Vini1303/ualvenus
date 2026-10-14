@@ -1,0 +1,8 @@
+﻿RELATORIO DE DOWNLOAD DAS IMAGENS
+Data: 2026-09-15T12:30:58-03:00
+Total previsto: 724
+Imagens salvas nas pastas: 724
+Imagens faltantes: 0
+Execucao interrompida: Nao
+
+Todas as imagens estao presentes.

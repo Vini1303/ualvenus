@@ -1,0 +1,72 @@
+﻿Body Aldry Poliamida
+====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Cinza
+Nome completo: Body Aldry Poliamida Cinza
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9856054
+ID da variacao: 28656469
+Pagina do produto: https://www.zafiraatacado.com/body-aldry-poliamida/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/5-oohqj_1365x2048+crop_center.jpg?v=1785934281&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-p2mpu_1365x2048+crop_center.jpg?v=1785934289&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Body Aldry Poliamida Rosa Bebe
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9856054
+ID da variacao: 28656468
+Pagina do produto: https://www.zafiraatacado.com/body-aldry-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/5-oiyg2_1365x2048+crop_center.jpg?v=1778774775&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/6-v2qyr_1365x2048+crop_center.jpg?v=1778774776&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Body Aldry Poliamida Off White
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9856054
+ID da variacao: 28656467
+Pagina do produto: https://www.zafiraatacado.com/body-aldry-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/3-in7v1_1365x2048+crop_center.jpg?v=1778774774&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/4-521h8_1365x2048+crop_center.jpg?v=1778774775&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Aldry Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9856054
+ID da variacao: 28656466
+Pagina do produto: https://www.zafiraatacado.com/body-aldry-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-wppcp_1365x2048+crop_center.jpg?v=1781191158&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/4-cr1dv_1365x2048+crop_center.jpg?v=1781191159&webp=0
+
+------------------------------------------------------------

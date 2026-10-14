@@ -1,0 +1,88 @@
+﻿Regata Mariana Poliamida
+========================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Marrom Escuro
+Nome completo: Regata Mariana Poliamida Marrom Escuro
+Preco: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9911044
+ID da variacao: 30819155
+Pagina do produto: https://www.zafiraatacado.com/cropped-mariana-poliamida/marrom-escuro
+Imagens previstas:
+  Arquivo: Marrom Escuro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/4-kgjmm_1365x2048+crop_center.jpg?v=1788443414&webp=0
+  Arquivo: Marrom Escuro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-5-aq6vn_1365x2048+crop_center.jpg?v=1788443415&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Regata Mariana Poliamida Vinho
+Preco: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9911044
+ID da variacao: 28820115
+Pagina do produto: https://www.zafiraatacado.com/cropped-mariana-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/51-ectnj_1365x2048+crop_center.jpg?v=1784036621&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/52-s4ft3_1365x2048+crop_center.jpg?v=1784036621&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Regata Mariana Poliamida Rosa Bebe
+Preco: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9911044
+ID da variacao: 28820080
+Pagina do produto: https://www.zafiraatacado.com/cropped-mariana-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/30-mshqz_1365x2048+crop_center.jpg?v=1784036610&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/32-wfb6o_1365x2048+crop_center.jpg?v=1784036610&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Regata Mariana Poliamida Preto
+Preco: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9911044
+ID da variacao: 28820033
+Pagina do produto: https://www.zafiraatacado.com/cropped-mariana-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/43-shvvw_1365x2048+crop_center.jpg?v=1784036614&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/44-jq1qz_1365x2048+crop_center.jpg?v=1784036614&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Regata Mariana Poliamida Off White
+Preco: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9911044
+ID da variacao: 28819976
+Pagina do produto: https://www.zafiraatacado.com/cropped-mariana-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/37-w8fht_1365x2048+crop_center.jpg?v=1784036618&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/38-jvcuu_1365x2048+crop_center.jpg?v=1784036618&webp=0
+
+------------------------------------------------------------

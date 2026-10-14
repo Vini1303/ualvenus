@@ -1,0 +1,56 @@
+﻿Body Milão Poliamida
+====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Body Milão Poliamida Vinho
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7557666
+ID da variacao: 29251785
+Pagina do produto: https://www.zafiraatacado.com/body-milao-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/17-ukg0e_1365x2048+crop_center.jpg?v=1786545869&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/18-ogdqp_1365x2048+crop_center.jpg?v=1786545869&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Body Milão Poliamida Off White
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7557666
+ID da variacao: 24255861
+Pagina do produto: https://www.zafiraatacado.com/body-milao-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/j093-25-2_1365x2048+crop_center.jpg?v=1760725131&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/j093-25-1_1365x2048+crop_center.jpg?v=1760725129&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Milão Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7557666
+ID da variacao: 22124226
+Pagina do produto: https://www.zafiraatacado.com/body-milao-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/11-zr5pv_1365x2048+crop_center.jpg?v=1778012887&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/12-va0l9_1365x2048+crop_center.jpg?v=1778012888&webp=0
+
+------------------------------------------------------------

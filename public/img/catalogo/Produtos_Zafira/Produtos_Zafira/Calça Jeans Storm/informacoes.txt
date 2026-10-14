@@ -1,0 +1,25 @@
+﻿Calça Jeans Storm
+=================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Calça Jeans Storm Preto
+Preco: R$ 75,00
+Preco anterior exibido: R$ 98,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10371684
+ID da variacao: 30231884
+Pagina do produto: https://www.zafiraatacado.com/calca-jeans-storm/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/41-2whzd_1365x2048+crop_center.jpg?v=1782664843&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/42-jm0mh_1365x2048+crop_center.jpg?v=1782664844&webp=0
+
+------------------------------------------------------------

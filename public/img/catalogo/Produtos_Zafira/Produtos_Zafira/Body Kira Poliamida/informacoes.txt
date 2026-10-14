@@ -1,0 +1,56 @@
+﻿Body Kira Poliamida
+===================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Body Kira Poliamida Vinho
+Preco: R$ 38,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10207649
+ID da variacao: 29709604
+Pagina do produto: https://www.zafiraatacado.com/body-kira-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/6-jg7r8_1365x2048+crop_center.jpg?v=1777295927&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/7-gdfgq_1365x2048+crop_center.jpg?v=1777295928&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Kira Poliamida Preto
+Preco: R$ 38,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10207649
+ID da variacao: 29698526
+Pagina do produto: https://www.zafiraatacado.com/body-kira-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/11-mjx4w_1365x2048+crop_center.jpg?v=1777295930&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/12-uzjhb_1365x2048+crop_center.jpg?v=1777295931&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Body Kira Poliamida Off White
+Preco: R$ 38,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10207649
+ID da variacao: 29698524
+Pagina do produto: https://www.zafiraatacado.com/body-kira-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-ecraq_1365x2048+crop_center.jpg?v=1777295924&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-48alf_1365x2048+crop_center.jpg?v=1777295925&webp=0
+
+------------------------------------------------------------

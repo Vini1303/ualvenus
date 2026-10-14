@@ -1,0 +1,40 @@
+﻿Body Pamela Cavado Poliamida Um Ombro Só
+========================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Body Pamela Cavado Poliamida Um Ombro Só Vinho
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9302739
+ID da variacao: 27039855
+Pagina do produto: https://www.zafiraatacado.com/body-pamela-cavado-poliamida-um-ombro-so/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/17-jnmyt_1365x2048+crop_center.jpg?v=1777996835&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/18-gfawu_1365x2048+crop_center.jpg?v=1777996836&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Pamela Cavado Poliamida Um Ombro Só Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9302739
+ID da variacao: 27039854
+Pagina do produto: https://www.zafiraatacado.com/body-pamela-cavado-poliamida-um-ombro-so/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-bbl9o_1365x2048+crop_center.jpg?v=1777996830&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-33ruo_1365x2048+crop_center.jpg?v=1777996830&webp=0
+
+------------------------------------------------------------

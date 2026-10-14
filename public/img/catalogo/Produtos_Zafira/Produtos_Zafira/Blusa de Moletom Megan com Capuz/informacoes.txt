@@ -1,0 +1,59 @@
+﻿Blusa de Moletom Megan com Capuz
+================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Mescla
+Nome completo: Blusa de Moletom Megan com Capuz Mescla
+Preco: R$ 30,00
+Preco anterior exibido: R$ 45,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10450889
+ID da variacao: 30475262
+Pagina do produto: https://www.zafiraatacado.com/blusa-megan-com-capuz/mescla
+Imagens previstas:
+  Arquivo: Mescla - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/6-ygfnt_1365x2048+crop_center.jpg?v=1785434574&webp=0
+  Arquivo: Mescla - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/7-mccgo_1365x2048+crop_center.jpg?v=1785434574&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Blusa de Moletom Megan com Capuz Preto
+Preco: R$ 30,00
+Preco anterior exibido: R$ 45,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10450889
+ID da variacao: 30475263
+Pagina do produto: https://www.zafiraatacado.com/blusa-megan-com-capuz/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/26-kfjto_1365x2048+crop_center.jpg?v=1785434580&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/28-ojpxw_1365x2048+crop_center.jpg?v=1785434581&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Marrom Escuro
+Nome completo: Blusa de Moletom Megan com Capuz Marrom Escuro
+Preco: R$ 30,00
+Preco anterior exibido: R$ 45,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10450889
+ID da variacao: 30475264
+Pagina do produto: https://www.zafiraatacado.com/blusa-megan-com-capuz/marrom-escuro
+Imagens previstas:
+  Arquivo: Marrom Escuro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/17-zusqy_1365x2048+crop_center.jpg?v=1785434576&webp=0
+  Arquivo: Marrom Escuro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/19-umkyf_1365x2048+crop_center.jpg?v=1785434576&webp=0
+
+------------------------------------------------------------

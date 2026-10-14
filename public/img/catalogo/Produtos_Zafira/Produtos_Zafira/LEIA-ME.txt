@@ -1,0 +1,68 @@
+﻿PRODUTOS ZAFIRA - PASTA MATRIZ
+================================
+
+Este pacote organiza TODOS os cards de produto encontrados em Texto colado.txt.
+Produtos de mesmo nome ficam na mesma pasta, reunindo as variacoes de cor.
+Caracteres que nao podem fazer parte de nomes de pastas, como /, viraram -.
+A grafia dos nomes, cores e valores foi preservada; apenas espacos excedentes
+foram removidos dos nomes de pastas. O nome original esta em catalogo.json.
+
+CONTEUDO
+- 145 pastas de modelos.
+- 364 variacoes de produto/cor.
+- 724 arquivos de imagem previstos, correspondentes a 718 URLs distintas.
+- 19 variacoes marcadas como Esgotado no codigo, mantidas no catalogo.
+
+IMPORTANTE SOBRE AS IMAGENS
+Nenhum JPG, JPEG ou PNG foi baixado na geracao deste pacote. O ambiente usado
+para organizar o arquivo nao conseguiu acessar os enderecos externos das fotos.
+As pastas contem os dados e os links EXATOS extraidos do codigo. Para ter as
+fotos como arquivos de verdade dentro de cada pasta, use o baixador incluido.
+A pagina CATALOGO.html e as paginas produto.html tentam carregar as fotos pelos
+links originais quando o arquivo local nao existe. Isso exige acesso a internet
+e disponibilidade da imagem no servidor de origem.
+
+COMO BAIXAR TODAS AS FOTOS PARA AS PASTAS
+1. Extraia todo o ZIP antes de executar qualquer arquivo.
+2. Windows: abra BAIXAR_IMAGENS_WINDOWS.bat (requer Python 3.9 ou superior).
+3. Linux ou macOS: abra um terminal na pasta matriz e execute:
+   python3 baixar_imagens.py
+   Alternativamente: bash BAIXAR_IMAGENS_LINUX_MAC.sh
+4. Ao final, verifique RELATORIO_DOWNLOAD.txt. Se houver falhas temporarias,
+   execute novamente: os arquivos validos ja salvos nao sao baixados outra vez.
+5. Opcional: python3 baixar_imagens.py --zip
+   Gera um ZIP ao lado da pasta matriz. Se houver falhas, o nome do ZIP inclui
+   IMAGENS_PARCIAIS, e o relatorio identifica as imagens que ficaram faltando.
+
+O baixador usa somente bibliotecas padrao do Python; nao exige pip nem login.
+Ele acessa apenas URLs de imagem da cdn.dooca.store presentes no manifesto.
+Ele nao executa o codigo HTML original, nao faz login, nao adiciona produtos
+ao carrinho e nao realiza compras. Para interromper, pressione Ctrl+C.
+
+O QUE HA EM CADA PASTA
+- informacoes.txt: nome, cores, precos, IDs, situacao, links e nomes das fotos.
+- links_das_imagens.txt: os links das imagens e os respectivos nomes de arquivo.
+- produto.html: pagina para ver as variacoes, precos e imagens do modelo.
+- Apos o download: fotos como 'Vinho - 01.jpg', 'Vinho - 02.jpg', etc.
+
+PRECOS
+Os precos sao exatamente os valores registrados no codigo enviado, nao uma
+consulta atual a loja. Em 345 variacoes, o preco esta visivel no card. Em 19
+variacoes esgotadas, ele nao aparece visualmente, mas esta presente no atributo
+data-product-price; essas situacoes foram identificadas em informacoes.txt,
+produto.html e catalogo.json. Precos anteriores so foram incluidos quando
+estavam expressamente exibidos no codigo; nenhum valor foi calculado a partir
+de percentuais de desconto. O botao Comprar nao comprova estoque atual.
+
+IMAGENS
+Foram reunidas a imagem principal e a imagem alternativa do card, quando
+existente, sem incluir duas vezes a mesma URL dentro da mesma variacao.
+Nao foram acrescentadas imagens de outras paginas ou de pesquisas externas.
+URLs repetidas entre variacoes diferentes podem gerar copias em pastas
+diferentes, para manter cada produto autocontido.
+
+ORIGEM E CONFERENCIA
+- Fonte dos dados: Texto colado.txt.
+- Data de organizacao: 15/09/2026.
+- catalogo.json guarda a lista completa e o SHA-256 da fonte para auditoria.
+- RESUMO_DOS_MODELOS.txt lista todos os modelos e seus precos.

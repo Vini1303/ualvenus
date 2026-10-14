@@ -1,0 +1,58 @@
+﻿Vestido Iris Manga Longa Poliamida
+==================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Vestido Iris Manga Longa Poliamida Vinho
+Preco: R$ 30,00
+Preco anterior exibido: R$ 53,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8973068
+ID da variacao: 26005029
+Pagina do produto: https://www.zafiraatacado.com/vestido-iris-manga-longa-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/6-wz5xm_1365x2048+crop_center.jpg?v=1777044468&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/7-dxjbq_1365x2048+crop_center.jpg?v=1777044469&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Vestido Iris Manga Longa Poliamida Preto
+Preco: R$ 30,00
+Preco anterior exibido: R$ 53,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8973068
+ID da variacao: 26005028
+Pagina do produto: https://www.zafiraatacado.com/vestido-iris-manga-longa-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/11-hwf5h_1365x2048+crop_center.jpg?v=1777044470&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/12-ehktq_1365x2048+crop_center.jpg?v=1777044472&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Marrom
+Nome completo: Vestido Iris Manga Longa Poliamida Marrom
+Preco: R$ 30,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 8973068
+ID da variacao: 26005027
+Pagina do produto: https://www.zafiraatacado.com/vestido-iris-manga-longa-poliamida/marrom
+Imagens previstas:
+  Arquivo: Marrom - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-5cmsd_1365x2048+crop_center.jpg?v=1777044466&webp=0
+  Arquivo: Marrom - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-8xxgz_1365x2048+crop_center.jpg?v=1777044467&webp=0
+
+------------------------------------------------------------

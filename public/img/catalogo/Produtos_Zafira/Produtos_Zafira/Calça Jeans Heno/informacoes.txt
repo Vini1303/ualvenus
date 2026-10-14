@@ -1,0 +1,25 @@
+﻿Calça Jeans Heno
+================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Jeans
+Nome completo: Calça Jeans Heno Jeans
+Preco: R$ 85,00
+Preco anterior exibido: R$ 110,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10315387
+ID da variacao: 30034533
+Pagina do produto: https://www.zafiraatacado.com/calca-jeans-heno/jeans
+Imagens previstas:
+  Arquivo: Jeans - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-dbmid_1365x2048+crop_center.jpg?v=1780242004&webp=0
+  Arquivo: Jeans - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-3gcch_1365x2048+crop_center.jpg?v=1780242005&webp=0
+
+------------------------------------------------------------

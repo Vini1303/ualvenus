@@ -1,0 +1,40 @@
+﻿Vestido Ruby Poliamida
+======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Branco
+Nome completo: Vestido Ruby Poliamida Branco
+Preco: R$ 55,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7629509
+ID da variacao: 22325020
+Pagina do produto: https://www.zafiraatacado.com/vestido-ruby-poliamida/branco
+Imagens previstas:
+  Arquivo: Branco - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/268-4-1_1365x2048+crop_center.jpg?v=1732368573&webp=0
+  Arquivo: Branco - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/268-4-6_1365x2048+crop_center.jpg?v=1732368574&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Vestido Ruby Poliamida Preto
+Preco: R$ 55,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 7629509
+ID da variacao: 22325021
+Pagina do produto: https://www.zafiraatacado.com/vestido-ruby-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/268-28-1_1365x2048+crop_center.jpg?v=1732368566&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/268-28-2_1365x2048+crop_center.jpg?v=1732368568&webp=0
+
+------------------------------------------------------------

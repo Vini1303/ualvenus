@@ -1,0 +1,25 @@
+﻿Jaqueta Jeans Heno
+==================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Jeans
+Nome completo: Jaqueta Jeans Heno Jeans
+Preco: R$ 75,00
+Preco anterior exibido: R$ 95,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10287199
+ID da variacao: 29948489
+Pagina do produto: https://www.zafiraatacado.com/jaqueta-jeans-heno/jeans
+Imagens previstas:
+  Arquivo: Jeans - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/5-fuhfc_1365x2048+crop_center.jpg?v=1780242046&webp=0
+  Arquivo: Jeans - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/6-s06is_1365x2048+crop_center.jpg?v=1780242047&webp=0
+
+------------------------------------------------------------

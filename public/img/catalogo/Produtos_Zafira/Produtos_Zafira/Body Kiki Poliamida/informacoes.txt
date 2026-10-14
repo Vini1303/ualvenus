@@ -1,0 +1,56 @@
+﻿Body Kiki Poliamida
+===================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Body Kiki Poliamida Preto
+Preco: R$ 38,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10327993
+ID da variacao: 30074155
+Pagina do produto: https://www.zafiraatacado.com/body-kiki-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/6-ddq3h_1365x2048+crop_center.jpg?v=1787654313&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/7-hmni1_1365x2048+crop_center.jpg?v=1787654313&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Body Kiki Poliamida Rosa Bebe
+Preco: R$ 38,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10327993
+ID da variacao: 30074156
+Pagina do produto: https://www.zafiraatacado.com/body-kiki-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/35-qvb8l_1365x2048+crop_center.jpg?v=1781611523&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/36-p8dzz_1365x2048+crop_center.jpg?v=1781611524&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Body Kiki Poliamida Off White
+Preco: R$ 38,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 10327993
+ID da variacao: 30074157
+Pagina do produto: https://www.zafiraatacado.com/body-kiki-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/33-ufyex_1365x2048+crop_center.jpg?v=1781456043&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/35-hu5qz_1365x2048+crop_center.jpg?v=1781456043&webp=0
+
+------------------------------------------------------------

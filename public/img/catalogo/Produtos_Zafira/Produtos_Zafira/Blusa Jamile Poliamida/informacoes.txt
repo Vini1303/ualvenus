@@ -1,0 +1,88 @@
+﻿Blusa Jamile Poliamida
+======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Marrom
+Nome completo: Blusa Jamile Poliamida Marrom
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084882
+ID da variacao: 29339887
+Pagina do produto: https://www.zafiraatacado.com/blusa-jamile/marrom
+Imagens previstas:
+  Arquivo: Marrom - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/20-18ity_1365x2048+crop_center.jpg?v=1778520120&webp=0
+  Arquivo: Marrom - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/8-26jje_1365x2048+crop_center.jpg?v=1778520120&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Blusa Jamile Poliamida Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084882
+ID da variacao: 29339886
+Pagina do produto: https://www.zafiraatacado.com/blusa-jamile/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/17-aopyc_1365x2048+crop_center.jpg?v=1778520098&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/19-bj62u_1365x2048+crop_center.jpg?v=1778520118&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Blusa Jamile Poliamida Vinho
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084882
+ID da variacao: 29339885
+Pagina do produto: https://www.zafiraatacado.com/blusa-jamile/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.png
+  URL: https://cdn.dooca.store/160985/products/1-rqwjv_1365x2048+crop_center.png?v=1776706914&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/copia-de-img-6203-m8ta6_1365x2048+crop_center.jpg?v=1776706914&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Cinza
+Nome completo: Blusa Jamile Poliamida Cinza
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084882
+ID da variacao: 29339884
+Pagina do produto: https://www.zafiraatacado.com/blusa-jamile/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-6-dlbnp_1365x2048+crop_center.jpg?v=1776706906&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/copia-de-img-6153-sf5zg_1365x2048+crop_center.jpg?v=1776706907&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Blusa Jamile Poliamida Off White
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084882
+ID da variacao: 29339883
+Pagina do produto: https://www.zafiraatacado.com/blusa-jamile/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-5-c7sro_1365x2048+crop_center.jpg?v=1776706911&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/copia-de-img-6155-k8rdl_1365x2048+crop_center.jpg?v=1776706911&webp=0
+
+------------------------------------------------------------

@@ -1,0 +1,56 @@
+﻿Cropped Maby Poliamida
+======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Cropped Maby Poliamida Vinho
+Preco: R$ 40,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10327998
+ID da variacao: 30074175
+Pagina do produto: https://www.zafiraatacado.com/cropped-maby-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/2-gyjmb_1365x2048+crop_center.jpg?v=1784664026&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-155-uru4a_1365x2048+crop_center.jpg?v=1784664027&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Maby Poliamida Preto
+Preco: R$ 40,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10327998
+ID da variacao: 30074173
+Pagina do produto: https://www.zafiraatacado.com/cropped-maby-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/3-69b23_1365x2048+crop_center.jpg?v=1783789679&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/1-jgzkz_1365x2048+crop_center.jpg?v=1783789681&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Cropped Maby Poliamida Off White
+Preco: R$ 40,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10327998
+ID da variacao: 30074174
+Pagina do produto: https://www.zafiraatacado.com/cropped-maby-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/7-xlikg_1365x2048+crop_center.jpg?v=1783789680&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/6-daio2_1365x2048+crop_center.jpg?v=1783789680&webp=0
+
+------------------------------------------------------------

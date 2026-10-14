@@ -1,0 +1,295 @@
+﻿RESUMO DOS MODELOS
+Fonte: Texto colado.txt
+
+Modelos: 145 | Variacoes: 364
+
+001. Blusa Bel Poliamida | R$ 33,00 | 2 variacoes
+     Cores: Off White, Preto
+002. Blusa de Moletom Megan com Capuz | R$ 30,00 | 3 variacoes
+     Cores: Mescla, Preto, Marrom Escuro
+003. Blusa Electra Poliamida | R$ 45,00 | 1 variacoes
+     Cores: Preto
+004. Blusa Jamile Poliamida | R$ 33,00 | 5 variacoes
+     Cores: Marrom, Preto, Vinho, Cinza, Off White
+005. Blusa Kalid Poliamida | R$ 45,00 | 4 variacoes
+     Cores: Rosa Bebe, Preto, Cinza, Marrom Escuro
+006. Blusa Kya Poliamida | R$ 33,00 | 3 variacoes
+     Cores: Preto, Off White, Vinho
+007. Blusa Laysa Poliamida | R$ 33,00 | 3 variacoes
+     Cores: Cinza, Vinho, Preto
+008. Blusa Loren Poliamida | R$ 35,00 | 8 variacoes
+     Cores: Marrom Escuro, Amarelo Bebe, Vinho, Vermelho, Rosa Bebe, Preto, Off White, Cinza
+009. Blusa Maddy Poliamida | R$ 38,00 | 2 variacoes
+     Cores: Off White, Preto
+010. Blusa Melly Poliamida | R$ 40,00 | 4 variacoes
+     Cores: Vinho, Amarelo Bebe, Off White, Rosa Bebe
+011. Blusa Serena Poliamida | R$ 33,00 | 2 variacoes
+     Cores: Off White, Preto
+012. Blusa Vivian Poliamida Com Zíper Gola | R$ 42,00 | 1 variacoes
+     Cores: Vinho
+013. Blusa Yas Poliamida | R$ 36,00 | 2 variacoes
+     Cores: Azul Royal, Preto
+014. Body Aldry Poliamida | R$ 35,00 | 4 variacoes
+     Cores: Cinza, Rosa Bebe, Off White, Preto
+015. Body Amelie Poliamida | R$ 30,00 | 1 variacoes
+     Cores: Cinza
+016. Body Ashley Poliamida | R$ 30,00 | 2 variacoes
+     Cores: Preto, Off White
+017. Body Cintia Poliamida | R$ 35,00 | 2 variacoes
+     Cores: Vinho, Preto
+018. Body Dallas Poliamida | R$ 38,00 | 2 variacoes
+     Cores: Preto, Off White
+019. Body Diane Poliamida | R$ 35,00 | 4 variacoes
+     Cores: Preto, Vinho, Cinza, Off White
+020. Body Euphoria Recortes Poliamida C/ Tule | R$ 48,00 | 1 variacoes
+     Cores: Preto
+021. Body Fatima Poliamida | R$ 38,00 | 1 variacoes
+     Cores: Preto
+022. Body Fernanda Poliamida | R$ 30,00 | 5 variacoes
+     Cores: Vinho, Off White, Marrom, Preto, Cinza
+023. Body Isabel Manga Longa Poliamida | R$ 35,00 | 3 variacoes
+     Cores: Rosa Bebe, Vinho, Preto
+024. Body Isaura Poliamida | R$ 33,00 | 4 variacoes
+     Cores: Verde Menta, Rosa Bebe, Marrom, Preto
+025. Body Kika Poliamida | R$ 35,00 | 2 variacoes
+     Cores: Off White, Preto
+026. Body Kiki Poliamida | R$ 38,00 | 3 variacoes
+     Cores: Preto, Rosa Bebe, Off White
+027. Body Kira Poliamida | R$ 38,00 | 3 variacoes
+     Cores: Vinho, Preto, Off White
+028. Body Laila Poliamida | R$ 30,00 | 2 variacoes
+     Cores: Preto, Off White
+029. Body Lally Tule Com Poliamida | R$ 35,00 | 1 variacoes
+     Cores: Preto
+030. Body Lavinia Poliamida | R$ 35,00 | 2 variacoes
+     Cores: Off White, Preto
+031. Body Lilly Poliamida | R$ 35,00 | 2 variacoes
+     Cores: Preto, Marrom Escuro
+032. Body Linda Poliamida Manga Longa Laço | R$ 35,00 | 2 variacoes
+     Cores: Off White, Preto
+033. Body Luciana Poliamida Multiformas | R$ 35,00 | 11 variacoes
+     Cores: Laranja, Vermelho, Rosa Bebe, Off White, Amarelo Bebe, Verde Neo Mint, Areia, Vinho, Preto, Marrom, Cinza
+034. Body Luiza Poliamida | R$ 35,00 | 1 variacoes
+     Cores: Vinho
+035. Body Mel Poliamida | R$ 35,00 | 3 variacoes
+     Cores: Marrom, Vinho, Preto
+036. Body Milão Poliamida | R$ 35,00 | 3 variacoes
+     Cores: Vinho, Off White, Preto
+037. Body Nataly Poliamida | R$ 35,00 | 6 variacoes
+     Cores: Vinho, Marrom Escuro, Onça, Amarelo Bebe, Preto, Off White
+038. Body Noronha Poliamida | R$ 35,00 | 1 variacoes
+     Cores: Preto
+039. Body Pamela Cavado Poliamida Um Ombro Só | R$ 35,00 | 2 variacoes
+     Cores: Vinho, Preto
+040. Body Patrícia Tule Premium | R$ 35,00 | 1 variacoes
+     Cores: Preto
+041. Body Paula Poliamida | R$ 38,00 | 1 variacoes
+     Cores: Preto
+042. Body Recortes Mary Poliamida | R$ 35,00 | 7 variacoes
+     Cores: Cinza, Marinho, Preto, Vinho, Off White, Rosa Bebe, Rosa Claro
+043. Body Sassa Suplex | R$ 15,00 | 1 variacoes
+     Cores: Preto
+044. Calça Britney Poliamida | R$ 43,00 | 4 variacoes
+     Cores: Marrom Escuro, Vinho, Preto, Cinza
+045. Calça de Moletom Megan | R$ 40,00 | 3 variacoes
+     Cores: Marrom Escuro, Preto, Mescla
+046. Calça Jeans Blair | R$ 75,00 | 1 variacoes
+     Cores: Preto
+047. Calça Jeans Butterfly | R$ 98,00 | 1 variacoes
+     Cores: Jeans
+048. Calça Jeans Cassie | R$ 89,00 | 1 variacoes
+     Cores: Jeans
+049. Calça Jeans Croco | R$ 110,00 | 1 variacoes
+     Cores: Jeans
+050. Calça Jeans Dakota | R$ 110,00 | 1 variacoes
+     Cores: Jeans
+051. Calça Jeans Ella | R$ 120,00 | 1 variacoes
+     Cores: Jeans
+052. Calça Jeans Foil Pintura Metálica | R$ 99,00 | 2 variacoes
+     Cores: Branco, Preto
+053. Calça Jeans Glow | R$ 75,00 | 1 variacoes
+     Cores: Jeans
+054. Calça Jeans Heart | R$ 99,00 | 1 variacoes
+     Cores: Jeans
+055. Calça Jeans Heno | R$ 85,00 | 1 variacoes
+     Cores: Jeans
+056. Calça Jeans Hillary | R$ 88,00 | 1 variacoes
+     Cores: Jeans Claro
+057. Calça Jeans Jenny Destroyed | R$ 89,00 | 1 variacoes
+     Cores: Jeans
+058. Calça Jeans Jessie | R$ 98,00 | 1 variacoes
+     Cores: Jeans
+059. Calça Jeans Kim | R$ 95,00 | 1 variacoes
+     Cores: Jeans Claro
+060. Calça Jeans Lary | R$ 89,00 | 1 variacoes
+     Cores: Preto
+061. Calça Jeans Lexy | R$ 115,00 | 1 variacoes
+     Cores: Jeans Claro
+062. Calça Jeans Londres | R$ 75,00 | 1 variacoes
+     Cores: Jeans
+063. Calça Jeans Madison | R$ 88,00 | 2 variacoes
+     Cores: Jeans Escuro, Jeans
+064. Calça Jeans Mia Dirty Washed | R$ 70,00 | 1 variacoes
+     Cores: Jeans
+065. Calça Jeans Milly Destroyed | R$ 88,00 | 1 variacoes
+     Cores: Jeans
+066. Calça Jeans Ruby | R$ 89,00 | 1 variacoes
+     Cores: Jeans Escuro
+067. Calça Jeans Siena Destroyed | R$ 89,00 | 1 variacoes
+     Cores: Jeans
+068. Calça Jeans Storm | R$ 75,00 | 1 variacoes
+     Cores: Preto
+069. Calça Jeans Vênus | R$ 70,00 | 1 variacoes
+     Cores: Jeans
+070. Calça Jeans Wide Leg Avelã | R$ 110,00 | 1 variacoes
+     Cores: Jeans Escuro
+071. Calça Jeans Wide Leg Kaili | R$ 75,00 | 1 variacoes
+     Cores: Jeans Claro
+072. Calça Jeans Wide Leg ZFR | R$ 70,00 | 1 variacoes
+     Cores: Jeans Claro
+073. Calça Jeans Zoe | R$ 98,00 | 1 variacoes
+     Cores: Jeans
+074. Calça Kelly Veludo | R$ 55,00 | 1 variacoes
+     Cores: Preto
+075. Calça Marina Poliamida | R$ 48,00 | 3 variacoes
+     Cores: Rosa Bebe, Preto, Cinza
+076. Conjunto Z Poliamida | R$ 38,00 | 1 variacoes
+     Cores: Preto
+077. Cropped Adriana Poliamida | R$ 15,00 | 2 variacoes
+     Cores: Vermelho, Rosa Bebe
+078. Cropped Alena Poliamida | R$ 35,00 | 4 variacoes
+     Cores: Laranja, Verde Menta, Rosa Bebe, Preto
+079. Cropped Babe Poliamida | R$ 30,00 | 3 variacoes
+     Cores: Cinza, Vermelho, Rosa Bebe
+080. Cropped Becky Poliamida | R$ 30,00 | 2 variacoes
+     Cores: Preto, Cinza
+081. Cropped Blossom Poliamida | R$ 28,00 | 6 variacoes
+     Cores: Marrom, Vinho, Cinza, Off White, Verde Menta, Preto
+082. Cropped Cris Poliamida | R$ 33,00 | 4 variacoes
+     Cores: Vinho, Rosa Bebe, Preto, Amarelo Bebe
+083. Cropped Elza Renda | R$ 53,00 | 2 variacoes
+     Cores: Verde Água, Rosa
+084. Cropped Francine Poliamida Essencial | R$ 25,00 | 3 variacoes
+     Cores: Vinho, Rosa Bebe, Preto
+085. Cropped Glenda Poliamida | R$ 35,00 | 2 variacoes
+     Cores: Preto, Marrom
+086. Cropped Honey Poliamida | R$ 30,00 | 7 variacoes
+     Cores: Vinho, Rosa Bebe, Verde Menta, Vermelho, Preto, Off White, Cinza
+087. Cropped Jennifer Poliamida | R$ 28,00 | 2 variacoes
+     Cores: Verde Neo Mint, Rosa Bebe
+088. Cropped Julie Poliamida | R$ 33,00 | 2 variacoes
+     Cores: Rosa Bebe, Preto
+089. Cropped Lia Poliamida | R$ 28,00 | 2 variacoes
+     Cores: Vermelho, Cinza
+090. Cropped Luara Poliamida | R$ 25,00 | 1 variacoes
+     Cores: Preto
+091. Cropped Maby Poliamida | R$ 40,00 | 3 variacoes
+     Cores: Vinho, Preto, Off White
+092. Cropped Nadia Poliamida | R$ 25,00 | 3 variacoes
+     Cores: Off White, Vinho, Preto
+093. Cropped Natasha Poliamida | R$ 33,00 | 5 variacoes
+     Cores: Vinho, Vermelho, Rosa Bebe, Preto, Amarelo Bebe
+094. Cropped Peach Poliamida | R$ 30,00 | 2 variacoes
+     Cores: Vinho, Preto
+095. Cropped Scarlet Poliamida | R$ 33,00 | 4 variacoes
+     Cores: Vinho, Off White, Preto, Cinza
+096. Cropped Stefany Poliamida | R$ 35,00 | 2 variacoes
+     Cores: Preto, Off White
+097. Cropped Tess Poliamida | R$ 25,00 | 1 variacoes
+     Cores: Vinho
+098. Cropped Thaly Poliamida | R$ 33,00 | 3 variacoes
+     Cores: Vinho, Preto, Off White
+099. Cropped Triz Poliamida | R$ 33,00 | 6 variacoes
+     Cores: Off White, Amarelo Bebe, Marrom Escuro, Vinho, Rosa Bebe, Preto
+100. Cropped Tule Bordado Fabielli | R$ 60,00 | 2 variacoes
+     Cores: Preto, Areia
+101. Cropped Veiga Poliamida | R$ 33,00 | 6 variacoes
+     Cores: Marrom Escuro, Rosa Bebe, Vinho, Preto, Off White, Cinza
+102. Cropped Zaya Poliamida | R$ 33,00 | 3 variacoes
+     Cores: Vinho, Off White, Preto
+103. Jaqueta Jeans Heno | R$ 75,00 | 1 variacoes
+     Cores: Jeans
+104. Jaqueta Jeans Hillary | R$ 65,00 | 1 variacoes
+     Cores: Jeans Claro
+105. Lip Tube Gloss Poliamida 2 Em 1 | R$ 40,00 | 1 variacoes
+     Cores: Cinza/Marrom
+106. Macacão Hot Ivy Poliamida | R$ 65,00 | 1 variacoes
+     Cores: Preto
+107. Mini Saia Cora Courino | R$ 65,00 | 1 variacoes
+     Cores: Preto
+108. Mini Saia Tayna Poliamida | R$ 58,00 | 2 variacoes
+     Cores: Preto, Off White
+109. Regata Holly Poliamida | R$ 33,00 | 2 variacoes
+     Cores: Azul Royal, Preto
+110. Regata Hotmaps Poliamida | R$ 33,00 | 1 variacoes
+     Cores: Rosa Bebe
+111. Regata Mariana Poliamida | R$ 30,00 | 5 variacoes
+     Cores: Marrom Escuro, Vinho, Rosa Bebe, Preto, Off White
+112. Regata Maysa Poliamida | R$ 35,00 | 5 variacoes
+     Cores: Marrom Escuro, Vinho, Rosa, Amarelo, Preto
+113. Saia Gisele Poliamida | R$ 38,00 | 7 variacoes
+     Cores: Laranja, Amarelo Bebe, Rosa Bebe, Vinho, Off White, Verde Menta, Preto
+114. Saia Jéssica Poliamida | R$ 25,00 | 6 variacoes
+     Cores: Amarelo Bebe, Vinho, Rosa Bebe, Off White, Vermelho, Preto
+115. Saia Lizzy Paete | R$ 48,00 | 2 variacoes
+     Cores: Preto/Dourado, Preto/Verde
+116. Saia Renata Poliamida Drapeada | R$ 38,00 | 5 variacoes
+     Cores: Vermelho, Vinho, Rosa Bebe, Preto, Cinza
+117. Saia Skylar Poliamida | R$ 38,00 | 3 variacoes
+     Cores: Rosa Bebe, Amarelo Bebe, Off White
+118. Saia Star Paete | R$ 30,00 | 1 variacoes
+     Cores: Vinho
+119. Shorts Flame Courino | R$ 50,00 | 1 variacoes
+     Cores: Preto
+120. Shorts Lira Courino | R$ 55,00 | 1 variacoes
+     Cores: Nao informada
+121. Top Cropped Alix com Renda Poliamida | R$ 33,00 | 2 variacoes
+     Cores: Preto, Off White
+122. Top Cropped Wendy Suplex | R$ 15,00 | 3 variacoes
+     Cores: Preto, Branco, Marrom
+123. Top Faixa Tube Poliamida | R$ 23,00 | 8 variacoes
+     Cores: Marrom Escuro, Vinho, Amarelo Bebe, Off White, Rosa Bebe, Preto, Marrom, Cinza
+124. Top Jeans Dakota | R$ 70,00 | 1 variacoes
+     Cores: Jeans
+125. Top Stacy Poliamida Duplo Transpassado | R$ 33,00 | 6 variacoes
+     Cores: Laranja, Rosa Bebe, Vinho, Preto, Off White, Amarelo Bebe
+126. Top Star Paete | R$ 28,00 | 4 variacoes
+     Cores: Vinho, Preto, Marinho, Amarelo
+127. Vestido Curto Aria Poliamida | R$ 48,00 | 3 variacoes
+     Cores: Vinho, Off White, Cinza
+128. Vestido Curto Malibu Poliamida Drapeado | R$ 50,00 | 4 variacoes
+     Cores: Rosa Bebe, Preto, Off White, Cinza
+129. Vestido Eliza Poliamida | R$ 68,00 | 1 variacoes
+     Cores: Marrom
+130. Vestido Hailey Correntes Suplex | R$ 50,00 | 2 variacoes
+     Cores: Preto, Azul Royal
+131. Vestido Iris Manga Longa Poliamida | R$ 30,00 | 3 variacoes
+     Cores: Vinho, Preto, Marrom
+132. Vestido June Poliamida | R$ 65,00 | 2 variacoes
+     Cores: Vermelho, Preto
+133. Vestido Longo Areta Poliamida | R$ 60,00 | 3 variacoes
+     Cores: Branco, Vermelho, Preto
+134. Vestido Longo Cameron Poliamida | R$ 65,00 | 2 variacoes
+     Cores: Branco, Vermelho
+135. Vestido Longo Denver Poliamida | R$ 60,00 | 1 variacoes
+     Cores: Vermelho
+136. Vestido Longo Naomi Poliamida Saia Fenda | R$ 65,00 | 2 variacoes
+     Cores: Vermelho, Preto
+137. Vestido Longo Nivea Poliamida | R$ 68,00 | 2 variacoes
+     Cores: Preto, Vinho
+138. Vestido Maitê Poliamida | R$ 50,00 | 4 variacoes
+     Cores: Preto, Vinho, Off White, Rosa Bebe
+139. Vestido Martina Poliamida Recortes | R$ 30,00 | 3 variacoes
+     Cores: Preto, Off White, Cinza
+140. Vestido Miss Poliamida | R$ 60,00 | 2 variacoes
+     Cores: Vermelho, Branco
+141. Vestido Paloma Tule Psicodélico | R$ 45,00 | 1 variacoes
+     Cores: Rosa
+142. Vestido Ruby Poliamida | R$ 55,00 | 2 variacoes
+     Cores: Branco, Preto
+143. Vestido Savage Poliamida | R$ 30,00 | 4 variacoes
+     Cores: Cinza, Branco, Marrom, Rosa Bebe
+144. Vestido Vanelope Poliamida | R$ 60,00 | 3 variacoes
+     Cores: Vermelho, Preto, Branco
+145. Vestido Zuri Tule Com Forro | R$ 58,00 | 3 variacoes
+     Cores: Rosa, Verde, Preto/Pink

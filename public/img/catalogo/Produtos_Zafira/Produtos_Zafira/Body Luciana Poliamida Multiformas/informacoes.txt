@@ -1,0 +1,184 @@
+﻿Body Luciana Poliamida Multiformas
+==================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Laranja
+Nome completo: Body Luciana Poliamida Multiformas Laranja
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9112450
+ID da variacao: 29221127
+Pagina do produto: https://www.zafiraatacado.com/body-luciana-poliamida/laranja
+Imagens previstas:
+  Arquivo: Laranja - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/5-2-klifz_1365x2048+crop_center.jpg?v=1783954783&webp=0
+  Arquivo: Laranja - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/6-2-p0n9l_1365x2048+crop_center.jpg?v=1783954783&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vermelho
+Nome completo: Body Luciana Poliamida Multiformas Vermelho
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9112450
+ID da variacao: 27754737
+Pagina do produto: https://www.zafiraatacado.com/body-luciana-poliamida/vermelho
+Imagens previstas:
+  Arquivo: Vermelho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/8-ykcbs_1365x2048+crop_center.jpg?v=1778854952&webp=0
+  Arquivo: Vermelho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/10-yanfg_1365x2048+crop_center.jpg?v=1778854953&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Body Luciana Poliamida Multiformas Rosa Bebe
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9112450
+ID da variacao: 27265304
+Pagina do produto: https://www.zafiraatacado.com/body-luciana-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/388-57-1_1365x2048+crop_center.jpg?v=1761760730&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/388-57-3_1365x2048+crop_center.jpg?v=1761760733&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Body Luciana Poliamida Multiformas Off White
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9112450
+ID da variacao: 27265302
+Pagina do produto: https://www.zafiraatacado.com/body-luciana-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/36-hvnq0_1365x2048+crop_center.jpg?v=1778855889&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/37-wbajt_1365x2048+crop_center.jpg?v=1778855890&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Amarelo Bebe
+Nome completo: Body Luciana Poliamida Multiformas Amarelo Bebe
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9112450
+ID da variacao: 27265301
+Pagina do produto: https://www.zafiraatacado.com/body-luciana-poliamida/amarelo-bebe
+Imagens previstas:
+  Arquivo: Amarelo Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/388-77-5_1365x2048+crop_center.jpg?v=1761760755&webp=0
+  Arquivo: Amarelo Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/388-77-3_1365x2048+crop_center.jpg?v=1761760751&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Verde Neo Mint
+Nome completo: Body Luciana Poliamida Multiformas Verde Neo Mint
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9112450
+ID da variacao: 26568777
+Pagina do produto: https://www.zafiraatacado.com/body-luciana-poliamida/verde-menta-3
+Imagens previstas:
+  Arquivo: Verde Neo Mint - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/19-2ok0a_1365x2048+crop_center.jpg?v=1778855899&webp=0
+  Arquivo: Verde Neo Mint - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/27-eu7ga_1365x2048+crop_center.jpg?v=1778855901&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Areia
+Nome completo: Body Luciana Poliamida Multiformas Areia
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9112450
+ID da variacao: 26568774
+Pagina do produto: https://www.zafiraatacado.com/body-luciana-poliamida/areia
+Imagens previstas:
+  Arquivo: Areia - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/41-2cgpo_1365x2048+crop_center.jpg?v=1778855404&webp=0
+  Arquivo: Areia - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/42-pt5nt_1365x2048+crop_center.jpg?v=1778855405&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Body Luciana Poliamida Multiformas Vinho
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9112450
+ID da variacao: 26463765
+Pagina do produto: https://www.zafiraatacado.com/body-luciana-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/13-f9mfr_1365x2048+crop_center.jpg?v=1778855395&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/16-9mgrm_1365x2048+crop_center.jpg?v=1778855395&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Luciana Poliamida Multiformas Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9112450
+ID da variacao: 26463764
+Pagina do produto: https://www.zafiraatacado.com/body-luciana-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/49-omtep_1365x2048+crop_center.jpg?v=1778855919&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/50-czanx_1365x2048+crop_center.jpg?v=1778855920&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Marrom
+Nome completo: Body Luciana Poliamida Multiformas Marrom
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9112450
+ID da variacao: 26463763
+Pagina do produto: https://www.zafiraatacado.com/body-luciana-poliamida/marrom
+Imagens previstas:
+  Arquivo: Marrom - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/66-sfse1_1365x2048+crop_center.jpg?v=1778855400&webp=0
+  Arquivo: Marrom - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/70-5kobe_1365x2048+crop_center.jpg?v=1778855401&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Cinza
+Nome completo: Body Luciana Poliamida Multiformas Cinza
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9112450
+ID da variacao: 26463762
+Pagina do produto: https://www.zafiraatacado.com/body-luciana-poliamida/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/72-ptein_1365x2048+crop_center.jpg?v=1778854747&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/73-finqm_1365x2048+crop_center.jpg?v=1778854747&webp=0
+
+------------------------------------------------------------

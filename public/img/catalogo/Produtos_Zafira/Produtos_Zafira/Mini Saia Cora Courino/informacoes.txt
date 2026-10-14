@@ -1,0 +1,24 @@
+﻿Mini Saia Cora Courino
+======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Mini Saia Cora Courino Preto
+Preco: R$ 65,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8237295
+ID da variacao: 24014411
+Pagina do produto: https://www.zafiraatacado.com/mini-saia-cora-courino/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/333-28-1_1365x2048+crop_center.jpg?v=1742140198000&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/333-28-2_1365x2048+crop_center.jpg?v=1742140202000&webp=0
+
+------------------------------------------------------------

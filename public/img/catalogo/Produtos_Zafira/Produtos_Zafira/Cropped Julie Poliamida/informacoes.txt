@@ -1,0 +1,40 @@
+﻿Cropped Julie Poliamida
+=======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Cropped Julie Poliamida Rosa Bebe
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10521606
+ID da variacao: 30724288
+Pagina do produto: https://www.zafiraatacado.com/cropped-julie-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/6-wmg1s_1365x2048+crop_center.jpg?v=1787498912&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/7-srbux_1365x2048+crop_center.jpg?v=1787498913&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Julie Poliamida Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10521606
+ID da variacao: 30724286
+Pagina do produto: https://www.zafiraatacado.com/cropped-julie-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/4-ee5an_1365x2048+crop_center.jpg?v=1787498911&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/5-cmy1t_1365x2048+crop_center.jpg?v=1787498912&webp=0
+
+------------------------------------------------------------

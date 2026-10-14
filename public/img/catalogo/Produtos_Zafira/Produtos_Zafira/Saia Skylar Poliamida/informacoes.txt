@@ -1,0 +1,56 @@
+﻿Saia Skylar Poliamida
+=====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Saia Skylar Poliamida Rosa Bebe
+Preco: R$ 38,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9883824
+ID da variacao: 28734103
+Pagina do produto: https://www.zafiraatacado.com/saia-skylar-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.png
+  URL: https://cdn.dooca.store/160985/products/4smmhekykyz13ipftjwtgslca7oebp1ppt9s_1365x2048+crop_center.png?v=1769353598&webp=0
+  Arquivo: Rosa Bebe - 02.png
+  URL: https://cdn.dooca.store/160985/products/kgdqmrdcbh9mcs0xc65qqh1t4qroqva3atwc_1365x2048+crop_center.png?v=1769353596&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Amarelo Bebe
+Nome completo: Saia Skylar Poliamida Amarelo Bebe
+Preco: R$ 38,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9883824
+ID da variacao: 28734100
+Pagina do produto: https://www.zafiraatacado.com/saia-skylar-poliamida/amarelo-bebe
+Imagens previstas:
+  Arquivo: Amarelo Bebe - 01.png
+  URL: https://cdn.dooca.store/160985/products/nvfwwudpwaiwcec4dntlhlyrdjou5sq5qczq_1365x2048+crop_center.png?v=1769353569&webp=0
+  Arquivo: Amarelo Bebe - 02.png
+  URL: https://cdn.dooca.store/160985/products/ne335b6lxvbn6oafzuqfssus3oc3ustbktdr_1365x2048+crop_center.png?v=1769353570&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Saia Skylar Poliamida Off White
+Preco: R$ 38,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 9883824
+ID da variacao: 28734101
+Pagina do produto: https://www.zafiraatacado.com/saia-skylar-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.png
+  URL: https://cdn.dooca.store/160985/products/k6qljikciwoxjlxxaoybj2kj3ben6q22t2hx_1365x2048+crop_center.png?v=1769353581&webp=0
+  Arquivo: Off White - 02.png
+  URL: https://cdn.dooca.store/160985/products/ziimzhdgffcrbpptwpfbwzh6cfpuynmf2xzw_1365x2048+crop_center.png?v=1769353580&webp=0
+
+------------------------------------------------------------

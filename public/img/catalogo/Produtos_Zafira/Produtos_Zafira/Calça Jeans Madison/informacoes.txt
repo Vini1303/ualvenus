@@ -1,0 +1,40 @@
+﻿Calça Jeans Madison
+===================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Jeans Escuro
+Nome completo: Calça Jeans Madison Jeans Escuro
+Preco: R$ 88,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10345168
+ID da variacao: 30319026
+Pagina do produto: https://www.zafiraatacado.com/calca-jeans-madison/jeans-escuro
+Imagens previstas:
+  Arquivo: Jeans Escuro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-13-l5mjp_1365x2048+crop_center.jpg?v=1783264588&webp=0
+  Arquivo: Jeans Escuro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-14-owhrj_1365x2048+crop_center.jpg?v=1783264588&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Jeans
+Nome completo: Calça Jeans Madison Jeans
+Preco: R$ 88,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10345168
+ID da variacao: 30124507
+Pagina do produto: https://www.zafiraatacado.com/calca-jeans-madison/jeans
+Imagens previstas:
+  Arquivo: Jeans - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/4-q2uda_1365x2048+crop_center.jpg?v=1781897773&webp=0
+  Arquivo: Jeans - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/1-dc3vd_1365x2048+crop_center.jpg?v=1781897773&webp=0
+
+------------------------------------------------------------

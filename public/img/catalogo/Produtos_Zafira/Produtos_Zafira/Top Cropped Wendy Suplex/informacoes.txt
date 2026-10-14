@@ -1,0 +1,58 @@
+﻿Top Cropped Wendy Suplex
+========================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Top Cropped Wendy Suplex Preto
+Preco: R$ 15,00
+Preco anterior exibido: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7901880
+ID da variacao: 23094408
+Pagina do produto: https://www.zafiraatacado.com/top-cropped-wendy-suplex/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/41-1o7gf_1365x2048+crop_center.jpg?v=1778513706&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/42-gk9mm_1365x2048+crop_center.jpg?v=1778513706&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Branco
+Nome completo: Top Cropped Wendy Suplex Branco
+Preco: R$ 15,00
+Preco anterior exibido: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7901880
+ID da variacao: 23094405
+Pagina do produto: https://www.zafiraatacado.com/top-cropped-wendy-suplex/branco
+Imagens previstas:
+  Arquivo: Branco - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/50-u3wyf_1365x2048+crop_center.jpg?v=1778514540&webp=0
+  Arquivo: Branco - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/51-hvc8m_1365x2048+crop_center.jpg?v=1778514540&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Marrom
+Nome completo: Top Cropped Wendy Suplex Marrom
+Preco: R$ 15,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 7901880
+ID da variacao: 23094407
+Pagina do produto: https://www.zafiraatacado.com/top-cropped-wendy-suplex/marrom
+Imagens previstas:
+  Arquivo: Marrom - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/311ch-21-1_1365x2048+crop_center.jpg?v=1755282122&webp=0
+  Arquivo: Marrom - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/311ch-21-6_1365x2048+crop_center.jpg?v=1755282124&webp=0
+
+------------------------------------------------------------

@@ -1,0 +1,58 @@
+﻿Cropped Nadia Poliamida
+=======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Off White
+Nome completo: Cropped Nadia Poliamida Off White
+Preco: R$ 25,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8740884
+ID da variacao: 26302506
+Pagina do produto: https://www.zafiraatacado.com/cropped-nadia-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-zeuwv_1365x2048+crop_center.jpg?v=1782915397&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-cpp0u_1365x2048+crop_center.jpg?v=1782915397&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Cropped Nadia Poliamida Vinho
+Preco: R$ 25,00
+Preco anterior exibido: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8740884
+ID da variacao: 25388931
+Pagina do produto: https://www.zafiraatacado.com/cropped-nadia-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/9-x4qjp_1365x2048+crop_center.jpg?v=1782915394&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/10-eiqx3_1365x2048+crop_center.jpg?v=1782915395&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Nadia Poliamida Preto
+Preco: R$ 25,00
+Preco anterior exibido: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8740884
+ID da variacao: 25388929
+Pagina do produto: https://www.zafiraatacado.com/cropped-nadia-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/5-wk30m_1365x2048+crop_center.jpg?v=1782915399&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/8-nrk8y_1365x2048+crop_center.jpg?v=1782915399&webp=0
+
+------------------------------------------------------------

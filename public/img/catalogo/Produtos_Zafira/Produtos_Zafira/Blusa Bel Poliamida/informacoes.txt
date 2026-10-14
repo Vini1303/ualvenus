@@ -1,0 +1,40 @@
+﻿Blusa Bel Poliamida
+===================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Off White
+Nome completo: Blusa Bel Poliamida Off White
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10328003
+ID da variacao: 30074209
+Pagina do produto: https://www.zafiraatacado.com/blusa-bel-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/8-t9ga5_1365x2048+crop_center.jpg?v=1780934376&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/9-ponzx_1365x2048+crop_center.jpg?v=1780934378&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Blusa Bel Poliamida Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10328003
+ID da variacao: 30074208
+Pagina do produto: https://www.zafiraatacado.com/blusa-bel-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-wlybq_1365x2048+crop_center.jpg?v=1780934372&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-noxkj_1365x2048+crop_center.jpg?v=1780934373&webp=0
+
+------------------------------------------------------------

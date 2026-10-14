@@ -1,0 +1,72 @@
+﻿Body Isaura Poliamida
+=====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Verde Menta
+Nome completo: Body Isaura Poliamida Verde Menta
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8592182
+ID da variacao: 29050984
+Pagina do produto: https://www.zafiraatacado.com/body-isaura-poliamida/verde-menta
+Imagens previstas:
+  Arquivo: Verde Menta - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/13-uniim_1365x2048+crop_center.jpg?v=1786451252&webp=0
+  Arquivo: Verde Menta - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/14-ofuiy_1365x2048+crop_center.jpg?v=1786451254&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Body Isaura Poliamida Rosa Bebe
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8592182
+ID da variacao: 27265300
+Pagina do produto: https://www.zafiraatacado.com/body-isaura-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-2pjtl_1365x2048+crop_center.jpg?v=1786451252&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-oxqgm_1365x2048+crop_center.jpg?v=1786451252&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Marrom
+Nome completo: Body Isaura Poliamida Marrom
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8592182
+ID da variacao: 26325159
+Pagina do produto: https://www.zafiraatacado.com/body-isaura-poliamida/marrom
+Imagens previstas:
+  Arquivo: Marrom - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/11-wbbwr_1365x2048+crop_center.jpg?v=1778610956&webp=0
+  Arquivo: Marrom - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/12-ohy8l_1365x2048+crop_center.jpg?v=1778610956&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Isaura Poliamida Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8592182
+ID da variacao: 24994803
+Pagina do produto: https://www.zafiraatacado.com/body-isaura-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/8-m5leo_1365x2048+crop_center.jpg?v=1786451248&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/9-69s2a_1365x2048+crop_center.jpg?v=1786451258&webp=0
+
+------------------------------------------------------------

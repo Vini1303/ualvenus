@@ -1,0 +1,56 @@
+﻿Body Mel Poliamida
+==================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Marrom
+Nome completo: Body Mel Poliamida Marrom
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10051812
+ID da variacao: 29232664
+Pagina do produto: https://www.zafiraatacado.com/body-mel-poliamida/marrom
+Imagens previstas:
+  Arquivo: Marrom - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/22-og0t9_1365x2048+crop_center.jpg?v=1784037576&webp=0
+  Arquivo: Marrom - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/23-b3t5x_1365x2048+crop_center.jpg?v=1784037576&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Body Mel Poliamida Vinho
+Preco: R$ 35,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 10051812
+ID da variacao: 29232691
+Pagina do produto: https://www.zafiraatacado.com/body-mel-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-zmwa3_1365x2048+crop_center.jpg?v=1784037573&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/3-twghu_1365x2048+crop_center.jpg?v=1784037573&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Mel Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 10051812
+ID da variacao: 29232679
+Pagina do produto: https://www.zafiraatacado.com/body-mel-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/8-lyeom_1365x2048+crop_center.jpg?v=1784037580&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/9-tmc23_1365x2048+crop_center.jpg?v=1784037580&webp=0
+
+------------------------------------------------------------

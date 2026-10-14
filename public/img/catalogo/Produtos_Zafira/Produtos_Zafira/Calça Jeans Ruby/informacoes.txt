@@ -1,0 +1,24 @@
+﻿Calça Jeans Ruby
+================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Jeans Escuro
+Nome completo: Calça Jeans Ruby Jeans Escuro
+Preco: R$ 89,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10452673
+ID da variacao: 30482456
+Pagina do produto: https://www.zafiraatacado.com/calca-jeans-ruby/jeans-escuro
+Imagens previstas:
+  Arquivo: Jeans Escuro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-jvpgj_1365x2048+crop_center.jpg?v=1784890363&webp=0
+  Arquivo: Jeans Escuro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-3rhz1_1365x2048+crop_center.jpg?v=1784890363&webp=0
+
+------------------------------------------------------------

@@ -1,0 +1,72 @@
+﻿Blusa Kalid Poliamida
+=====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Blusa Kalid Poliamida Rosa Bebe
+Preco: R$ 45,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10483953
+ID da variacao: 30582255
+Pagina do produto: https://www.zafiraatacado.com/blusa-kalid-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/20-ufuu8_1365x2048+crop_center.jpg?v=1785937296&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/21-fw2nm_1365x2048+crop_center.jpg?v=1785937296&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Blusa Kalid Poliamida Preto
+Preco: R$ 45,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10483953
+ID da variacao: 30582254
+Pagina do produto: https://www.zafiraatacado.com/blusa-kalid-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/13-byfty_1365x2048+crop_center.jpg?v=1785937293&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/14-ixmnq_1365x2048+crop_center.jpg?v=1785937293&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Cinza
+Nome completo: Blusa Kalid Poliamida Cinza
+Preco: R$ 45,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10483953
+ID da variacao: 30582256
+Pagina do produto: https://www.zafiraatacado.com/blusa-kalid-poliamida/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/14-qrkrc_1365x2048+crop_center.jpg?v=1786119953&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/15-re9pc_1365x2048+crop_center.jpg?v=1786119954&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Marrom Escuro
+Nome completo: Blusa Kalid Poliamida Marrom Escuro
+Preco: R$ 45,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 10483953
+ID da variacao: 30582252
+Pagina do produto: https://www.zafiraatacado.com/blusa-kalid-poliamida/marrom-escuro
+Imagens previstas:
+  Arquivo: Marrom Escuro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/7-vrdh2_1365x2048+crop_center.jpg?v=1786119950&webp=0
+  Arquivo: Marrom Escuro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/9-dm17a_1365x2048+crop_center.jpg?v=1786119951&webp=0
+
+------------------------------------------------------------

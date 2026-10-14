@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Finalizar compra — Dash Imports</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,700;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div id="layout-header"></div>
+
+<div class="container">
+  <p class="breadcrumb"><a href="/">Início</a> / <span>Finalizar compra</span></p>
+</div>
+
+<section class="container">
+  <div class="checkout-layout">
+    <div>
+      <form id="checkoutForm">
+        <div class="checkout-card">
+          <h3>Seus dados</h3>
+          <div class="form-row">
+            <div>
+              <label for="name">Nome completo</label>
+              <input id="name" name="name" required>
+            </div>
+            <div>
+              <label for="phone">WhatsApp</label>
+              <input id="phone" name="phone" placeholder="(11) 90000-0000" required>
+            </div>
+          </div>
+          <div class="form-row full">
+            <div>
+              <label for="email">E-mail</label>
+              <input id="email" name="email" type="email" required>
+            </div>
+          </div>
+        </div>
+
+        <div class="checkout-card">
+          <h3>Endereço de entrega</h3>
+          <div class="form-row">
+            <div>
+              <label for="cep">CEP</label>
+              <input id="cep" name="cep" placeholder="00000-000" required>
+            </div>
+            <div>
+              <label for="city">Cidade</label>
+              <input id="city" name="city" required>
+            </div>
+          </div>
+          <div class="form-row">
+            <div>
+              <label for="street">Rua</label>
+              <input id="street" name="street" required>
+            </div>
+            <div>
+              <label for="number">Número</label>
+              <input id="number" name="number" required>
+            </div>
+          </div>
+          <div class="form-row">
+            <div>
+              <label for="neighborhood">Bairro</label>
+              <input id="neighborhood" name="neighborhood">
+            </div>
+            <div>
+              <label for="state">Estado (UF)</label>
+              <input id="state" name="state" maxlength="2" required>
+            </div>
+          </div>
+          <div class="form-row full">
+            <div>
+              <label for="complement">Complemento (opcional)</label>
+              <input id="complement" name="complement">
+            </div>
+          </div>
+          <p class="field-error" id="cepNote" style="display:none;"></p>
+        </div>
+
+        <p class="field-error" id="formError" style="display:none;"></p>
+        <button class="btn-primary" type="submit" id="submitBtn">Finalizar pedido</button>
+      </form>
+    </div>
+
+    <div>
+      <div class="checkout-card">
+        <h3>Resumo do pedido</h3>
+        <div id="orderItems"></div>
+        <div class="summary-line"><span>Subtotal</span><span id="sumSubtotal">R$ 0,00</span></div>
+        <div class="summary-line"><span>Frete</span><span id="sumShipping">Calculado no endereço</span></div>
+        <div class="summary-line summary-total"><span>Total</span><span id="sumTotal">R$ 0,00</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div id="layout-footer"></div>
+
+<script src="/js/api.js"></script>
+<script src="/js/cart.js"></script>
+<script src="/js/layout.js"></script>
+<script src="/js/checkout.js"></script>
+</body>
+</html>

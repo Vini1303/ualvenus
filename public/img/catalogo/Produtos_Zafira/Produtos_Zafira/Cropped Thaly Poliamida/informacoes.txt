@@ -1,0 +1,56 @@
+﻿Cropped Thaly Poliamida
+=======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Cropped Thaly Poliamida Vinho
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10327986
+ID da variacao: 30074147
+Pagina do produto: https://www.zafiraatacado.com/cropped-thaly-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/11-h8d6x_1365x2048+crop_center.jpg?v=1781455844&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/12-7tb7d_1365x2048+crop_center.jpg?v=1781455844&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Thaly Poliamida Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10327986
+ID da variacao: 30074145
+Pagina do produto: https://www.zafiraatacado.com/cropped-thaly-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/6-susk0_1365x2048+crop_center.jpg?v=1781455841&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/7-stzuh_1365x2048+crop_center.jpg?v=1781455842&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Cropped Thaly Poliamida Off White
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10327986
+ID da variacao: 30074146
+Pagina do produto: https://www.zafiraatacado.com/cropped-thaly-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-vqjgd_1365x2048+crop_center.jpg?v=1781455839&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-tfcro_1365x2048+crop_center.jpg?v=1781455840&webp=0
+
+------------------------------------------------------------

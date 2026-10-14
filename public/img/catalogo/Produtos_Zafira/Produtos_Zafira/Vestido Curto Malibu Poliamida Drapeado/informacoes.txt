@@ -1,0 +1,72 @@
+﻿Vestido Curto Malibu Poliamida Drapeado
+=======================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Vestido Curto Malibu Poliamida Drapeado Rosa Bebe
+Preco: R$ 50,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9684341
+ID da variacao: 28171750
+Pagina do produto: https://www.zafiraatacado.com/vestido-curto-malibu-poliamida-drapeado/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.png
+  URL: https://cdn.dooca.store/160985/products/malibu-rosa-bebe-1_1365x2048+crop_center.png?v=1769354319&webp=0
+  Arquivo: Rosa Bebe - 02.png
+  URL: https://cdn.dooca.store/160985/products/malibu-rosa-bebe-2_1365x2048+crop_center.png?v=1769354319&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Vestido Curto Malibu Poliamida Drapeado Preto
+Preco: R$ 50,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9684341
+ID da variacao: 28171749
+Pagina do produto: https://www.zafiraatacado.com/vestido-curto-malibu-poliamida-drapeado/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-12-rqa7m_1365x2048+crop_center.jpg?v=1782917908&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-9-fketw_1365x2048+crop_center.jpg?v=1776978180&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Vestido Curto Malibu Poliamida Drapeado Off White
+Preco: R$ 50,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9684341
+ID da variacao: 28171748
+Pagina do produto: https://www.zafiraatacado.com/vestido-curto-malibu-poliamida-drapeado/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/13-lgb62_1365x2048+crop_center.jpg?v=1776977135&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/15-fok0f_1365x2048+crop_center.jpg?v=1776977134&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Cinza
+Nome completo: Vestido Curto Malibu Poliamida Drapeado Cinza
+Preco: R$ 50,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9684341
+ID da variacao: 28171747
+Pagina do produto: https://www.zafiraatacado.com/vestido-curto-malibu-poliamida-drapeado/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/img-1665-5-1jqwq_1365x2048+crop_center.jpg?v=1775475750&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/img-1666-2-qmej4_1365x2048+crop_center.jpg?v=1775475751&webp=0
+
+------------------------------------------------------------

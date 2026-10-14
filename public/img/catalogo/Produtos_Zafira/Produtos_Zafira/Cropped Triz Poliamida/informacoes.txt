@@ -1,0 +1,104 @@
+﻿Cropped Triz Poliamida
+======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Off White
+Nome completo: Cropped Triz Poliamida Off White
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7831391
+ID da variacao: 30533369
+Pagina do produto: https://www.zafiraatacado.com/cropped-triz-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/2-b1kym_1365x2048+crop_center.jpg?v=1785778897&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/4-xkr5c_1365x2048+crop_center.jpg?v=1785778898&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Amarelo Bebe
+Nome completo: Cropped Triz Poliamida Amarelo Bebe
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7831391
+ID da variacao: 30533357
+Pagina do produto: https://www.zafiraatacado.com/cropped-triz-poliamida/amarelo-bebe
+Imagens previstas:
+  Arquivo: Amarelo Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/2-u1eea_1365x2048+crop_center.jpg?v=1785322971&webp=0
+  Arquivo: Amarelo Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/3-v16cr_1365x2048+crop_center.jpg?v=1785322972&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Marrom Escuro
+Nome completo: Cropped Triz Poliamida Marrom Escuro
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7831391
+ID da variacao: 30025422
+Pagina do produto: https://www.zafiraatacado.com/cropped-triz-poliamida/marrom-escuro
+Imagens previstas:
+  Arquivo: Marrom Escuro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/8-2-ux0lz_1365x2048+crop_center.jpg?v=1779991228&webp=0
+  Arquivo: Marrom Escuro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/9-2-vw5o2_1365x2048+crop_center.jpg?v=1779991228&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Cropped Triz Poliamida Vinho
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7831391
+ID da variacao: 26048778
+Pagina do produto: https://www.zafiraatacado.com/cropped-triz-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/2-rzwrs_1365x2048+crop_center.jpg?v=1787249871&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/3-jw12v_1365x2048+crop_center.jpg?v=1787249871&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Cropped Triz Poliamida Rosa Bebe
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7831391
+ID da variacao: 23211869
+Pagina do produto: https://www.zafiraatacado.com/cropped-triz-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/7-qiftf_1365x2048+crop_center.jpg?v=1785778900&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/8-xzwnj_1365x2048+crop_center.jpg?v=1785778901&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Triz Poliamida Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7831391
+ID da variacao: 22896697
+Pagina do produto: https://www.zafiraatacado.com/cropped-triz-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-3czxv_1365x2048+crop_center.jpg?v=1787598127&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-jwlcd_1365x2048+crop_center.jpg?v=1787598127&webp=0
+
+------------------------------------------------------------

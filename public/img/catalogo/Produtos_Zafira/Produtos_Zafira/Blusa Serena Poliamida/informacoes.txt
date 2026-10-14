@@ -1,0 +1,40 @@
+﻿Blusa Serena Poliamida
+======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Off White
+Nome completo: Blusa Serena Poliamida Off White
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10501264
+ID da variacao: 30649504
+Pagina do produto: https://www.zafiraatacado.com/blusa-serena-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-8e55x_1365x2048+crop_center.jpg?v=1787067941&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-yws0g_1365x2048+crop_center.jpg?v=1787067942&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Blusa Serena Poliamida Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10501264
+ID da variacao: 30649505
+Pagina do produto: https://www.zafiraatacado.com/blusa-serena-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/6-t5daq_1365x2048+crop_center.jpg?v=1787067943&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/7-enyxx_1365x2048+crop_center.jpg?v=1787067943&webp=0
+
+------------------------------------------------------------

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pedido confirmado — Dash Imports</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,700;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div id="layout-header"></div>
+
+<section class="container" style="max-width:640px;padding:50px 20px 80px;">
+  <div id="orderConfirmation">
+    <div class="skeleton" style="height:200px;"></div>
+  </div>
+</section>
+
+<div id="layout-footer"></div>
+
+<script src="/js/api.js"></script>
+<script src="/js/cart.js"></script>
+<script src="/js/layout.js"></script>
+<script>
+async function initConfirmation() {
+  const params = new URLSearchParams(window.location.search);
+  const orderId = params.get("pedido");
+  const el = document.getElementById("orderConfirmation");
+
+  if (!orderId) {
+    el.innerHTML = `<div class="empty-state"><h2>Pedido não encontrado</h2></div>`;
+    return;
+  }
+
+  try {
+    const order = await Api.get(`/api/checkout/order/${encodeURIComponent(orderId)}`);
+    el.innerHTML = `
+      <div style="text-align:center;margin-bottom:30px;">
+        <div style="font-size:48px;">✅</div>
+        <h1 style="font-family:var(--font-display);text-transform:uppercase;margin:10px 0 6px;">Pedido recebido!</h1>
+        <p style="color:var(--muted);">Número do pedido: <strong>${order.id}</strong></p>
+      </div>
+
+      <div class="checkout-card">
+        <h3>Itens</h3>
+        ${order.items
+          .map(
+            (i) => `<div class="summary-line"><span>${i.qty}x ${i.name} (${i.size})</span><span>${formatBRL(i.unitPrice * i.qty)}</span></div>`
+          )
+          .join("")}
+        <div class="summary-line"><span>Frete</span><span>${order.shipping?.free ? "Grátis" : formatBRL(order.shipping?.cost || 0)}</span></div>
+        <div class="summary-line summary-total"><span>Total</span><span>${formatBRL(order.total)}</span></div>
+      </div>
+
+      <div class="checkout-card">
+        <h3>Como pagar</h3>
+        <p style="font-size:14px;line-height:1.6;">Pagamento via Pix a combinar pelo WhatsApp. Envie o número do pedido <strong>${order.id}</strong> para finalizar.</p>
+        <a href="https://wa.me/5511938006525?text=${encodeURIComponent("Olá! Quero finalizar o pagamento do pedido " + order.id)}" target="_blank" class="btn-primary" style="margin-top:10px;display:block;">Falar no WhatsApp</a>
+      </div>
+
+      <p style="text-align:center;margin-top:20px;"><a href="/produtos.html">Continuar comprando →</a></p>
+    `;
+  } catch (err) {
+    el.innerHTML = `<div class="empty-state"><h2>Não foi possível carregar o pedido</h2><p>${err.message}</p></div>`;
+  }
+}
+document.addEventListener("DOMContentLoaded", initConfirmation);
+</script>
+</body>
+</html>

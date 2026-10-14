@@ -1,0 +1,40 @@
+﻿Cropped Lia Poliamida
+=====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vermelho
+Nome completo: Cropped Lia Poliamida Vermelho
+Preco: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9490346
+ID da variacao: 28087513
+Pagina do produto: https://www.zafiraatacado.com/cropped-lia-poliamida/vermelho
+Imagens previstas:
+  Arquivo: Vermelho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/29-ouqo4_1365x2048+crop_center.jpg?v=1778008610&webp=0
+  Arquivo: Vermelho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/30-m7xhb_1365x2048+crop_center.jpg?v=1778008610&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Cinza
+Nome completo: Cropped Lia Poliamida Cinza
+Preco: R$ 28,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 9490346
+ID da variacao: 27591688
+Pagina do produto: https://www.zafiraatacado.com/cropped-lia-poliamida/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/35-fasvj_1365x2048+crop_center.jpg?v=1778770486&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/38-o3hf3_1365x2048+crop_center.jpg?v=1778770486&webp=0
+
+------------------------------------------------------------

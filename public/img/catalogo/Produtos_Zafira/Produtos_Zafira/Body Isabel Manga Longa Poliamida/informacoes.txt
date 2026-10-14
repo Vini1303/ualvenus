@@ -1,0 +1,56 @@
+﻿Body Isabel Manga Longa Poliamida
+=================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Body Isabel Manga Longa Poliamida Rosa Bebe
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8903304
+ID da variacao: 25800235
+Pagina do produto: https://www.zafiraatacado.com/body-isabel-manga-longa-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/14-nf8p4_1365x2048+crop_center.jpg?v=1787598336&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/15-n373r_1365x2048+crop_center.jpg?v=1787598336&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Body Isabel Manga Longa Poliamida Vinho
+Preco: R$ 35,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 8903304
+ID da variacao: 25800236
+Pagina do produto: https://www.zafiraatacado.com/body-isabel-manga-longa-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/7-zu7ld_1365x2048+crop_center.jpg?v=1787598332&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/8-xrn7x_1365x2048+crop_center.jpg?v=1787598333&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Isabel Manga Longa Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 8903304
+ID da variacao: 25800234
+Pagina do produto: https://www.zafiraatacado.com/body-isabel-manga-longa-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/24-lubno_1365x2048+crop_center.jpg?v=1787598310&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/26-bcz09_1365x2048+crop_center.jpg?v=1787598310&webp=0
+
+------------------------------------------------------------

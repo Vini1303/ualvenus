@@ -1,0 +1,136 @@
+﻿Top Faixa Tube Poliamida
+========================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Marrom Escuro
+Nome completo: Top Faixa Tube Poliamida Marrom Escuro
+Preco: R$ 23,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7674800
+ID da variacao: 30505601
+Pagina do produto: https://www.zafiraatacado.com/top-faixa-tube-poliamida/marrom-escuro
+Imagens previstas:
+  Arquivo: Marrom Escuro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-37-1-1_1365x2048+crop_center.jpg?v=1744199866&webp=0
+  Arquivo: Marrom Escuro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-2-1-1_1365x2048+crop_center.jpg?v=1744829096&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Top Faixa Tube Poliamida Vinho
+Preco: R$ 23,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7674800
+ID da variacao: 29150498
+Pagina do produto: https://www.zafiraatacado.com/top-faixa-tube-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-37-1-1_1365x2048+crop_center.jpg?v=1744199866&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-2-1-1_1365x2048+crop_center.jpg?v=1744829096&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Amarelo Bebe
+Nome completo: Top Faixa Tube Poliamida Amarelo Bebe
+Preco: R$ 23,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7674800
+ID da variacao: 23626990
+Pagina do produto: https://www.zafiraatacado.com/top-faixa-tube-poliamida/amarelo-bebe
+Imagens previstas:
+  Arquivo: Amarelo Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-77-1-1_1365x2048+crop_center.jpg?v=1744199923&webp=0
+  Arquivo: Amarelo Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-77-2-1_1365x2048+crop_center.jpg?v=1744199924&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Top Faixa Tube Poliamida Off White
+Preco: R$ 23,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7674800
+ID da variacao: 23211862
+Pagina do produto: https://www.zafiraatacado.com/top-faixa-tube-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-25-1-1_1365x2048+crop_center.jpg?v=1744199836&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-25-1_1365x2048+crop_center.jpg?v=1744060847&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Top Faixa Tube Poliamida Rosa Bebe
+Preco: R$ 23,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7674800
+ID da variacao: 22457032
+Pagina do produto: https://www.zafiraatacado.com/top-faixa-tube-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-57-1-1_1365x2048+crop_center.jpg?v=1744199908&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-57-2-1_1365x2048+crop_center.jpg?v=1744199909&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Top Faixa Tube Poliamida Preto
+Preco: R$ 23,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7674800
+ID da variacao: 22457030
+Pagina do produto: https://www.zafiraatacado.com/top-faixa-tube-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-28-1_1365x2048+crop_center.jpg?v=1744060851&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-28-2-1_1365x2048+crop_center.jpg?v=1744199839&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Marrom
+Nome completo: Top Faixa Tube Poliamida Marrom
+Preco: R$ 23,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7674800
+ID da variacao: 22457028
+Pagina do produto: https://www.zafiraatacado.com/top-faixa-tube-poliamida/marrom
+Imagens previstas:
+  Arquivo: Marrom - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-21-1-1_1365x2048+crop_center.jpg?v=1744199825&webp=0
+  Arquivo: Marrom - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-21-2-1_1365x2048+crop_center.jpg?v=1744199826&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Cinza
+Nome completo: Top Faixa Tube Poliamida Cinza
+Preco: R$ 23,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7674800
+ID da variacao: 22457025
+Pagina do produto: https://www.zafiraatacado.com/top-faixa-tube-poliamida/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-9-1-1_1365x2048+crop_center.jpg?v=1744199927&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/049ch-9-2-1_1365x2048+crop_center.jpg?v=1744199928&webp=0
+
+------------------------------------------------------------

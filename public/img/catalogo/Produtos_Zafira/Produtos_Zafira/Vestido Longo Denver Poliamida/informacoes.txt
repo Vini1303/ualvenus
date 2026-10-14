@@ -1,0 +1,24 @@
+﻿Vestido Longo Denver Poliamida
+==============================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vermelho
+Nome completo: Vestido Longo Denver Poliamida Vermelho
+Preco: R$ 60,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9628435
+ID da variacao: 27995700
+Pagina do produto: https://www.zafiraatacado.com/vestido-longo-denver-poliamida/vermelho
+Imagens previstas:
+  Arquivo: Vermelho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/10-sdvlv_1365x2048+crop_center.jpg?v=1777035958&webp=0
+  Arquivo: Vermelho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/11-yxbzp_1365x2048+crop_center.jpg?v=1777035959&webp=0
+
+------------------------------------------------------------

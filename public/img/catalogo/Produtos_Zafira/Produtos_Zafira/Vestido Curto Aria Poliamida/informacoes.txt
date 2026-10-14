@@ -1,0 +1,56 @@
+﻿Vestido Curto Aria Poliamida
+============================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Vestido Curto Aria Poliamida Vinho
+Preco: R$ 48,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7905600
+ID da variacao: 27477826
+Pagina do produto: https://www.zafiraatacado.com/vestido-curto-aria-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-10-xf7ky_1365x2048+crop_center.jpg?v=1777032385&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-nevtz_1365x2048+crop_center.jpg?v=1777032386&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Vestido Curto Aria Poliamida Off White
+Preco: R$ 48,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7905600
+ID da variacao: 23676579
+Pagina do produto: https://www.zafiraatacado.com/vestido-curto-aria-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/b300-25-7_1365x2048+crop_center.jpg?v=1760124990&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/b300-25-3_1365x2048+crop_center.jpg?v=1760124984&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Cinza
+Nome completo: Vestido Curto Aria Poliamida Cinza
+Preco: R$ 48,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7905600
+ID da variacao: 23676577
+Pagina do produto: https://www.zafiraatacado.com/vestido-curto-aria-poliamida/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/b300-9-1_1365x2048+crop_center.jpg?v=1760125034&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/b300-9-2_1365x2048+crop_center.jpg?v=1760125036&webp=0
+
+------------------------------------------------------------

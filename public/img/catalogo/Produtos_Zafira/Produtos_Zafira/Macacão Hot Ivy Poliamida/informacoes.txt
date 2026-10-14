@@ -1,0 +1,24 @@
+﻿Macacão Hot Ivy Poliamida
+=========================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Macacão Hot Ivy Poliamida Preto
+Preco: R$ 65,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 10084885
+ID da variacao: 29339895
+Pagina do produto: https://www.zafiraatacado.com/macacao-hot-ivy/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/img-6103-zzetz_1365x2048+crop_center.jpg?v=1774186133&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/img-6107-o74fo_1365x2048+crop_center.jpg?v=1774186133&webp=0
+
+------------------------------------------------------------

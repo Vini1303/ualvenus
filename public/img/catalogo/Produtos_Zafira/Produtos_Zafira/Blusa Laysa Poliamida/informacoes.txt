@@ -1,0 +1,56 @@
+﻿Blusa Laysa Poliamida
+=====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Cinza
+Nome completo: Blusa Laysa Poliamida Cinza
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084884
+ID da variacao: 29339894
+Pagina do produto: https://www.zafiraatacado.com/cropped-laysa/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/13-8lu0l_1365x2048+crop_center.jpg?v=1777896833&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/14-pgoys_1365x2048+crop_center.jpg?v=1777896834&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Blusa Laysa Poliamida Vinho
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084884
+ID da variacao: 29339893
+Pagina do produto: https://www.zafiraatacado.com/cropped-laysa/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/10-pojvl_1365x2048+crop_center.jpg?v=1777896836&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/11-havsp_1365x2048+crop_center.jpg?v=1777896836&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Blusa Laysa Poliamida Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084884
+ID da variacao: 29339892
+Pagina do produto: https://www.zafiraatacado.com/cropped-laysa/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/14-1omlf_1365x2048+crop_center.jpg?v=1778520854&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/15-xgeut_1365x2048+crop_center.jpg?v=1778520861&webp=0
+
+------------------------------------------------------------

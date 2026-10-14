@@ -1,0 +1,72 @@
+﻿Body Diane Poliamida
+====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Body Diane Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084883
+ID da variacao: 29339891
+Pagina do produto: https://www.zafiraatacado.com/body-diane/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/27-vrs1g_1365x2048+crop_center.jpg?v=1778520733&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/29-qeuuj_1365x2048+crop_center.jpg?v=1778520734&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Body Diane Poliamida Vinho
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084883
+ID da variacao: 29339890
+Pagina do produto: https://www.zafiraatacado.com/body-diane/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/8-lctws_1365x2048+crop_center.jpg?v=1778002739&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/9-k5ilf_1365x2048+crop_center.jpg?v=1778002739&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Cinza
+Nome completo: Body Diane Poliamida Cinza
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084883
+ID da variacao: 29339889
+Pagina do produto: https://www.zafiraatacado.com/body-diane/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-9ixmg_1365x2048+crop_center.jpg?v=1778002734&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-tnfty_1365x2048+crop_center.jpg?v=1778002735&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Body Diane Poliamida Off White
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10084883
+ID da variacao: 29339888
+Pagina do produto: https://www.zafiraatacado.com/body-diane/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/12-iyiu8_1365x2048+crop_center.jpg?v=1778002742&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/14-oxzfy_1365x2048+crop_center.jpg?v=1778002742&webp=0
+
+------------------------------------------------------------

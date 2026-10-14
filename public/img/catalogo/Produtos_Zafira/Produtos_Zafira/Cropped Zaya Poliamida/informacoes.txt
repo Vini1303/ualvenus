@@ -1,0 +1,56 @@
+﻿Cropped Zaya Poliamida
+======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Cropped Zaya Poliamida Vinho
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10564019
+ID da variacao: 30860629
+Pagina do produto: https://www.zafiraatacado.com/cropped-zaya-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-1-teybo_1365x2048+crop_center.jpg?v=1789152870&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-7r7ca_1365x2048+crop_center.jpg?v=1789152871&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Cropped Zaya Poliamida Off White
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10564019
+ID da variacao: 30860627
+Pagina do produto: https://www.zafiraatacado.com/cropped-zaya-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/img-6703-lefsu_1365x2048+crop_center.jpg?v=1789134672&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/img-6702-psb7q_1365x2048+crop_center.jpg?v=1789134672&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Zaya Poliamida Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10564019
+ID da variacao: 30860628
+Pagina do produto: https://www.zafiraatacado.com/cropped-zaya-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/img-6692-hdj29_1365x2048+crop_center.jpg?v=1789133694&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/img-6691-jyvbc_1365x2048+crop_center.jpg?v=1789133694&webp=0
+
+------------------------------------------------------------

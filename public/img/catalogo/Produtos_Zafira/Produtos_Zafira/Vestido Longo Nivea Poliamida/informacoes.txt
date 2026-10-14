@@ -1,0 +1,40 @@
+﻿Vestido Longo Nivea Poliamida
+=============================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Vestido Longo Nivea Poliamida Preto
+Preco: R$ 68,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8692031
+ID da variacao: 25259391
+Pagina do produto: https://www.zafiraatacado.com/vestido-nivea-poliamida/preto-37
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/25-6omia_1365x2048+crop_center.jpg?v=1779033009&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/26-xmsll_1365x2048+crop_center.jpg?v=1779033010&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Vestido Longo Nivea Poliamida Vinho
+Preco: R$ 68,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8692031
+ID da variacao: 25259392
+Pagina do produto: https://www.zafiraatacado.com/vestido-nivea-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/38-qgpwt_1365x2048+crop_center.jpg?v=1779033017&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/39-guvxd_1365x2048+crop_center.jpg?v=1779033018&webp=0
+
+------------------------------------------------------------

@@ -1,0 +1,72 @@
+﻿Cropped Alena Poliamida
+=======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Laranja
+Nome completo: Cropped Alena Poliamida Laranja
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9883908
+ID da variacao: 29164084
+Pagina do produto: https://www.zafiraatacado.com/cropped-alena-poliamida/laranja
+Imagens previstas:
+  Arquivo: Laranja - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-6ftii_1365x2048+crop_center.jpg?v=1783353576&webp=0
+  Arquivo: Laranja - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-14-tjsmy_1365x2048+crop_center.jpg?v=1783354376&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Verde Menta
+Nome completo: Cropped Alena Poliamida Verde Menta
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9883908
+ID da variacao: 28734355
+Pagina do produto: https://www.zafiraatacado.com/cropped-alena-poliamida/verde-menta
+Imagens previstas:
+  Arquivo: Verde Menta - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/23-kpxje_1365x2048+crop_center.jpg?v=1786627139&webp=0
+  Arquivo: Verde Menta - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/21-0kiq4_1365x2048+crop_center.jpg?v=1786627139&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Cropped Alena Poliamida Rosa Bebe
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9883908
+ID da variacao: 28734354
+Pagina do produto: https://www.zafiraatacado.com/cropped-alena-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-ju5d2_1365x2048+crop_center.jpg?v=1786622140&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/img-5584-xe8nh_1365x2048+crop_center.jpg?v=1786622140&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Alena Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9883908
+ID da variacao: 28734353
+Pagina do produto: https://www.zafiraatacado.com/cropped-alena-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/25-e6yub_1365x2048+crop_center.jpg?v=1786627128&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/26-tl76k_1365x2048+crop_center.jpg?v=1786627128&webp=0
+
+------------------------------------------------------------

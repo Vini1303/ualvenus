@@ -1,0 +1,24 @@
+﻿Body Amelie Poliamida
+=====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Cinza
+Nome completo: Body Amelie Poliamida Cinza
+Preco: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8191595
+ID da variacao: 23876658
+Pagina do produto: https://www.zafiraatacado.com/body-amelie-poliamida/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/317cf-9-1_1365x2048+crop_center.jpg?v=1742308307&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/317-9-1-2_1365x2048+crop_center.jpg?v=1741378847&webp=0
+
+------------------------------------------------------------

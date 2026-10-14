@@ -1,0 +1,40 @@
+﻿Cropped Peach Poliamida
+=======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Cropped Peach Poliamida Vinho
+Preco: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7629911
+ID da variacao: 27157708
+Pagina do produto: https://www.zafiraatacado.com/cropped-peach-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/q277-37-1_1365x2048+crop_center.jpg?v=1758481434&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/q277-37-5_1365x2048+crop_center.jpg?v=1758481439&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Peach Poliamida Preto
+Preco: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7629911
+ID da variacao: 22326013
+Pagina do produto: https://www.zafiraatacado.com/cropped-peach-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/q277-28-2_1365x2048+crop_center.jpg?v=1758481409&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/277ck-28-1_1365x2048+crop_center.jpg?v=1744203019&webp=0
+
+------------------------------------------------------------

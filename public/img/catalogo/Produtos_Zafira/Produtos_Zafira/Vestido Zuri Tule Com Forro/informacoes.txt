@@ -1,0 +1,56 @@
+﻿Vestido Zuri Tule Com Forro
+===========================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Rosa
+Nome completo: Vestido Zuri Tule Com Forro Rosa
+Preco: R$ 58,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9806736
+ID da variacao: 30595308
+Pagina do produto: https://www.zafiraatacado.com/vestido-zuri-tule/rosa
+Imagens previstas:
+  Arquivo: Rosa - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/4-gcbvb_1365x2048+crop_center.jpg?v=1786126378&webp=0
+  Arquivo: Rosa - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/5-on7le_1365x2048+crop_center.jpg?v=1786126378&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Verde
+Nome completo: Vestido Zuri Tule Com Forro Verde
+Preco: R$ 58,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9806736
+ID da variacao: 28516549
+Pagina do produto: https://www.zafiraatacado.com/vestido-zuri-tule/verde
+Imagens previstas:
+  Arquivo: Verde - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-tp5sj_1365x2048+crop_center.jpg?v=1786627701&webp=0
+  Arquivo: Verde - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/4-63iqk_1365x2048+crop_center.jpg?v=1786627701&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto/Pink
+Nome completo: Vestido Zuri Tule Com Forro Preto/Pink
+Preco: R$ 58,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9806736
+ID da variacao: 28516548
+Pagina do produto: https://www.zafiraatacado.com/vestido-zuri-tule/preto-pink
+Imagens previstas:
+  Arquivo: Preto-Pink - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/9-cllq1_1365x2048+crop_center.jpg?v=1786627717&webp=0
+  Arquivo: Preto-Pink - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/12-7ruvx_1365x2048+crop_center.jpg?v=1786627717&webp=0
+
+------------------------------------------------------------

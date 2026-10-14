@@ -1,0 +1,56 @@
+﻿Cropped Francine Poliamida Essencial
+====================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Cropped Francine Poliamida Essencial Vinho
+Preco: R$ 25,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7557617
+ID da variacao: 24135547
+Pagina do produto: https://www.zafiraatacado.com/cropped-francine-poliamida-essencial/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/m028-37-1_1365x2048+crop_center.jpg?v=1766000805&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/m028-37-2_1365x2048+crop_center.jpg?v=1766000814&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Cropped Francine Poliamida Essencial Rosa Bebe
+Preco: R$ 25,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7557617
+ID da variacao: 23200325
+Pagina do produto: https://www.zafiraatacado.com/cropped-francine-poliamida-essencial/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/m028-57-1_1365x2048+crop_center.jpg?v=1766000879&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/m028-57-2_1365x2048+crop_center.jpg?v=1766000880&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Francine Poliamida Essencial Preto
+Preco: R$ 25,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7557617
+ID da variacao: 22123983
+Pagina do produto: https://www.zafiraatacado.com/cropped-francine-poliamida-essencial/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/m028-28-1_1365x2048+crop_center.jpg?v=1766000783&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/m028-28-2_1365x2048+crop_center.jpg?v=1766000784&webp=0
+
+------------------------------------------------------------

@@ -1,0 +1,40 @@
+﻿Mini Saia Tayna Poliamida
+=========================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Mini Saia Tayna Poliamida Preto
+Preco: R$ 58,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8191043
+ID da variacao: 23874358
+Pagina do produto: https://www.zafiraatacado.com/mini-saia-tayna-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/324-28-1_1365x2048+crop_center.jpg?v=1741374032&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/324-28-2_1365x2048+crop_center.jpg?v=1741374033&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Mini Saia Tayna Poliamida Off White
+Preco: R$ 58,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8191043
+ID da variacao: 23874357
+Pagina do produto: https://www.zafiraatacado.com/mini-saia-tayna-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/324-25-1_1365x2048+crop_center.jpg?v=1741374025&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/324-25-2_1365x2048+crop_center.jpg?v=1741374026&webp=0
+
+------------------------------------------------------------

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rastreio do pedido — Dash Imports</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,700;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div id="layout-header"></div>
+
+<section class="container" style="max-width:640px;padding:50px 20px 80px;">
+  <h1 class="shelf-title" style="margin-bottom:18px;">Rastreio do pedido</h1>
+  <div class="checkout-card">
+    <h3>Consultar pelo número do pedido</h3>
+    <form id="trackForm" style="display:flex;gap:8px;margin-top:8px;">
+      <input id="orderInput" placeholder="Ex: DI-123456" style="flex:1;border:1px solid var(--line);border-radius:6px;padding:11px 12px;font-size:14px;">
+      <button class="btn-primary" style="width:auto;padding:0 18px;" type="submit">Buscar</button>
+    </form>
+    <div id="trackResult" style="margin-top:16px;"></div>
+  </div>
+  <div class="checkout-card">
+    <h3>Rastreio dos Correios</h3>
+    <p style="font-size:14px;">Depois que seu pedido for postado, use o código de rastreio enviado no WhatsApp em:</p>
+    <a href="https://rastreamento.correios.com.br/app/index.php" target="_blank" class="btn-secondary" style="margin-top:10px;">Rastrear nos Correios</a>
+  </div>
+</section>
+
+<div id="layout-footer"></div>
+<script src="/js/api.js"></script>
+<script src="/js/cart.js"></script>
+<script src="/js/layout.js"></script>
+<script>
+document.getElementById("trackForm").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const id = document.getElementById("orderInput").value.trim();
+  const resultEl = document.getElementById("trackResult");
+  if (!id) return;
+  resultEl.textContent = "Buscando...";
+  try {
+    const order = await Api.get(`/api/checkout/order/${encodeURIComponent(id)}`);
+    const statusLabels = {
+      aguardando_pagamento: "Aguardando pagamento",
+      pago: "Pagamento confirmado — em preparação",
+      enviado: "Enviado",
+      entregue: "Entregue",
+    };
+    resultEl.innerHTML = `
+      <div class="summary-line"><span>Pedido</span><span>${order.id}</span></div>
+      <div class="summary-line"><span>Status</span><span>${statusLabels[order.status] || order.status}</span></div>
+      <div class="summary-line summary-total"><span>Total</span><span>${formatBRL(order.total)}</span></div>
+    `;
+  } catch (err) {
+    resultEl.innerHTML = `<p class="field-error">${err.message}</p>`;
+  }
+});
+</script>
+</body>
+</html>

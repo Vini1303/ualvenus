@@ -1,0 +1,24 @@
+﻿Body Noronha Poliamida
+======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Body Noronha Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 7786611
+ID da variacao: 22773596
+Pagina do produto: https://www.zafiraatacado.com/body-noronha-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-homr4_1365x2048+crop_center.jpg?v=1782929365&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-7unjv_1365x2048+crop_center.jpg?v=1782929366&webp=0
+
+------------------------------------------------------------

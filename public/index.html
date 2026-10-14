@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vênus — Moda feminina em destaque</title>
+<meta name="description" content="Moda feminina com cropped, calças, camisetas, body, blusas de frio, jaquetas e shorts.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,700;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div id="layout-header"></div>
+
+<section class="hero">
+  <div class="hero-slides" id="heroSlides"></div>
+  <button class="hero-nav prev" id="heroPrev" aria-label="Slide anterior">‹</button>
+  <button class="hero-nav next" id="heroNext" aria-label="Próximo slide">›</button>
+  <div class="hero-dots" id="heroDots"></div>
+</section>
+
+<section class="cats container">
+  <h2 class="cats-title">Categorias</h2>
+  <div class="cats-row" id="catStrip"></div>
+</section>
+
+<section class="shelf container">
+  <div class="shelf-head">
+    <h2 class="shelf-title">Mais vendidos!</h2>
+    <a class="shelf-link" href="/produtos.html">Ver todos →</a>
+  </div>
+  <div class="product-grid" id="shelfBestSellers">
+    <div class="skeleton" style="height:320px"></div>
+    <div class="skeleton" style="height:320px"></div>
+    <div class="skeleton" style="height:320px"></div>
+    <div class="skeleton" style="height:320px"></div>
+  </div>
+</section>
+
+<section class="shelf container">
+  <div class="shelf-head">
+    <h2 class="shelf-title">Novidades Vênus</h2>
+    <a class="shelf-link" href="/produtos.html">Ver todos →</a>
+  </div>
+  <div class="product-grid" id="shelfNewArrivals"></div>
+</section>
+
+<section class="shelf container">
+  <div class="shelf-head">
+    <h2 class="shelf-title">Mais opções para você</h2>
+    <a class="shelf-link" href="/produtos.html">Ver todos →</a>
+  </div>
+  <div class="product-grid" id="shelfPromoStock"></div>
+</section>
+
+<div id="layout-footer"></div>
+
+<script src="/js/api.js"></script>
+<script src="/js/cart.js"></script>
+<script src="/js/layout.js"></script>
+<script src="/js/home.js"></script>
+</body>
+</html>

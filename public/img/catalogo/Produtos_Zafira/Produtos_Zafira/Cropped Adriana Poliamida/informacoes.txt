@@ -1,0 +1,42 @@
+﻿Cropped Adriana Poliamida
+=========================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vermelho
+Nome completo: Cropped Adriana Poliamida Vermelho
+Preco: R$ 15,00
+Preco anterior exibido: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9415261
+ID da variacao: 28611036
+Pagina do produto: https://www.zafiraatacado.com/cropped-adriana-poliamida/vermelho
+Imagens previstas:
+  Arquivo: Vermelho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-caiw6_1365x2048+crop_center.jpg?v=1778769883&webp=0
+  Arquivo: Vermelho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-k1kcu_1365x2048+crop_center.jpg?v=1778769883&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Cropped Adriana Poliamida Rosa Bebe
+Preco: R$ 15,00
+Preco anterior exibido: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9415261
+ID da variacao: 27383679
+Pagina do produto: https://www.zafiraatacado.com/cropped-adriana-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/14-ug5wv_1365x2048+crop_center.jpg?v=1777408770&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/15-p3mss_1365x2048+crop_center.jpg?v=1777408770&webp=0
+
+------------------------------------------------------------

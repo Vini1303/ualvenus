@@ -1,0 +1,104 @@
+﻿Top Stacy Poliamida Duplo Transpassado
+======================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Laranja
+Nome completo: Top Stacy Poliamida Duplo Transpassado Laranja
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9337268
+ID da variacao: 29168232
+Pagina do produto: https://www.zafiraatacado.com/top-stacy-poliamida/laranja
+Imagens previstas:
+  Arquivo: Laranja - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-2-yhwr2_1365x2048+crop_center.jpg?v=1787161476&webp=0
+  Arquivo: Laranja - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-vlxqf_1365x2048+crop_center.jpg?v=1787142605&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Top Stacy Poliamida Duplo Transpassado Rosa Bebe
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9337268
+ID da variacao: 28397405
+Pagina do produto: https://www.zafiraatacado.com/top-stacy-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/396-57-3-1_1365x2048+crop_center.jpg?v=1767700682&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/396-57-2-1_1365x2048+crop_center.jpg?v=1767700679&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Top Stacy Poliamida Duplo Transpassado Vinho
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9337268
+ID da variacao: 27157105
+Pagina do produto: https://www.zafiraatacado.com/top-stacy-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/11-3ep5q_1365x2048+crop_center.jpg?v=1787142601&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/12-5b7la_1365x2048+crop_center.jpg?v=1787142602&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Top Stacy Poliamida Duplo Transpassado Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9337268
+ID da variacao: 27157100
+Pagina do produto: https://www.zafiraatacado.com/top-stacy-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/18-gt3o2_1365x2048+crop_center.jpg?v=1777491443&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/19-dyrua_1365x2048+crop_center.jpg?v=1777491444&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Top Stacy Poliamida Duplo Transpassado Off White
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9337268
+ID da variacao: 27157098
+Pagina do produto: https://www.zafiraatacado.com/top-stacy-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-tr6ac_1365x2048+crop_center.jpg?v=1777491451&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-sdf11_1365x2048+crop_center.jpg?v=1777491452&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Amarelo Bebe
+Nome completo: Top Stacy Poliamida Duplo Transpassado Amarelo Bebe
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9337268
+ID da variacao: 27157094
+Pagina do produto: https://www.zafiraatacado.com/top-stacy-poliamida/amarelo-bebe
+Imagens previstas:
+  Arquivo: Amarelo Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/396-77-4-1_1365x2048+crop_center.jpg?v=1767700694&webp=0
+  Arquivo: Amarelo Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/396-77-2_1365x2048+crop_center.jpg?v=1766002616&webp=0
+
+------------------------------------------------------------

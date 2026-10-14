@@ -1,0 +1,72 @@
+﻿Cropped Cris Poliamida
+======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Vinho
+Nome completo: Cropped Cris Poliamida Vinho
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9856050
+ID da variacao: 28656461
+Pagina do produto: https://www.zafiraatacado.com/cropped-cris-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/8-t52b3_1365x2048+crop_center.jpg?v=1787747010&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/10-1yxve_1365x2048+crop_center.jpg?v=1787747011&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Cropped Cris Poliamida Rosa Bebe
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9856050
+ID da variacao: 28656459
+Pagina do produto: https://www.zafiraatacado.com/cropped-cris-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/2-rropv_1365x2048+crop_center.jpg?v=1787667448&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/5-rniut_1365x2048+crop_center.jpg?v=1787667361&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Cris Poliamida Preto
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9856050
+ID da variacao: 28656458
+Pagina do produto: https://www.zafiraatacado.com/cropped-cris-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/tskaqpll2kwbvaqjayzydsyjp55nustv6ivu_1365x2048+crop_center.jpg?v=1768752953&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/1xcfj7ohlgxl8qxa1rmzibykfidjutir1x0i_1365x2048+crop_center.jpg?v=1768752954&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Amarelo Bebe
+Nome completo: Cropped Cris Poliamida Amarelo Bebe
+Preco: R$ 33,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9856050
+ID da variacao: 28656455
+Pagina do produto: https://www.zafiraatacado.com/cropped-cris-poliamida/amarelo-bebe
+Imagens previstas:
+  Arquivo: Amarelo Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/2-rropv_1365x2048+crop_center.jpg?v=1787667448&webp=0
+  Arquivo: Amarelo Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/5-rniut_1365x2048+crop_center.jpg?v=1787667361&webp=0
+
+------------------------------------------------------------

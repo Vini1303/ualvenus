@@ -1,0 +1,40 @@
+﻿Vestido Longo Cameron Poliamida
+===============================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Branco
+Nome completo: Vestido Longo Cameron Poliamida Branco
+Preco: R$ 65,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9563182
+ID da variacao: 28702200
+Pagina do produto: https://www.zafiraatacado.com/vestido-longo-cameron-poliamida/branco
+Imagens previstas:
+  Arquivo: Branco - 01.png
+  URL: https://cdn.dooca.store/160985/products/cameron-branco-1_1365x2048+crop_center.png?v=1769104702&webp=0
+  Arquivo: Branco - 02.png
+  URL: https://cdn.dooca.store/160985/products/cameron-branco-3_1365x2048+crop_center.png?v=1769104704&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vermelho
+Nome completo: Vestido Longo Cameron Poliamida Vermelho
+Preco: R$ 65,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9563182
+ID da variacao: 27803191
+Pagina do produto: https://www.zafiraatacado.com/vestido-longo-cameron-poliamida/vermelho
+Imagens previstas:
+  Arquivo: Vermelho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/25-fnciz_1365x2048+crop_center.jpg?v=1786447777&webp=0
+  Arquivo: Vermelho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/19-tlxjg_1365x2048+crop_center.jpg?v=1786447777&webp=0
+
+------------------------------------------------------------

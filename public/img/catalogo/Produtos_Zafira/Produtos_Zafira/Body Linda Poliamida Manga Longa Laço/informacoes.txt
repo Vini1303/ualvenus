@@ -1,0 +1,40 @@
+﻿Body Linda Poliamida Manga Longa Laço
+=====================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Off White
+Nome completo: Body Linda Poliamida Manga Longa Laço Off White
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9006201
+ID da variacao: 27306605
+Pagina do produto: https://www.zafiraatacado.com/body-linda-poliamida-manga-longa-laco/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/3-3rz4k_1365x2048+crop_center.jpg?v=1776714251&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/4-4oq00_1365x2048+crop_center.jpg?v=1776714252&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Linda Poliamida Manga Longa Laço Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9006201
+ID da variacao: 26118094
+Pagina do produto: https://www.zafiraatacado.com/body-linda-poliamida-manga-longa-laco/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/12-ktyld_1365x2048+crop_center.jpg?v=1778617220&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/9-6lprr_1365x2048+crop_center.jpg?v=1778617219&webp=0
+
+------------------------------------------------------------

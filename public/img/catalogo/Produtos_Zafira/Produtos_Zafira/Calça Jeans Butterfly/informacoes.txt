@@ -1,0 +1,24 @@
+﻿Calça Jeans Butterfly
+=====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Jeans
+Nome completo: Calça Jeans Butterfly Jeans
+Preco: R$ 98,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10425493
+ID da variacao: 30390925
+Pagina do produto: https://www.zafiraatacado.com/calca-jeans-butterfly/jeans
+Imagens previstas:
+  Arquivo: Jeans - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-we0f3_1365x2048+crop_center.jpg?v=1786378804&webp=0
+  Arquivo: Jeans - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/12-yh65s_1365x2048+crop_center.jpg?v=1786378805&webp=0
+
+------------------------------------------------------------

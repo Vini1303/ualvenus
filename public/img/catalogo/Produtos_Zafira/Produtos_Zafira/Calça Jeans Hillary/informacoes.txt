@@ -1,0 +1,24 @@
+﻿Calça Jeans Hillary
+===================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Jeans Claro
+Nome completo: Calça Jeans Hillary Jeans Claro
+Preco: R$ 88,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10345175
+ID da variacao: 30124519
+Pagina do produto: https://www.zafiraatacado.com/calca-jeans-hillary/jeans-claro
+Imagens previstas:
+  Arquivo: Jeans Claro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/24-1zvwt_1365x2048+crop_center.jpg?v=1781455644&webp=0
+  Arquivo: Jeans Claro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/26-t2afv_1365x2048+crop_center.jpg?v=1781455645&webp=0
+
+------------------------------------------------------------

@@ -1,0 +1,40 @@
+﻿Vestido Hailey Correntes Suplex
+===============================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Vestido Hailey Correntes Suplex Preto
+Preco: R$ 50,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8277536
+ID da variacao: 24135115
+Pagina do produto: https://www.zafiraatacado.com/vestido-hailey-correntes-suplex/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/186-28-3_1365x2048+crop_center.jpg?v=1742764530&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/186-28-4_1365x2048+crop_center.jpg?v=1742764531&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Azul Royal
+Nome completo: Vestido Hailey Correntes Suplex Azul Royal
+Preco: R$ 50,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8277536
+ID da variacao: 24135114
+Pagina do produto: https://www.zafiraatacado.com/vestido-hailey-correntes-suplex/azul-royal
+Imagens previstas:
+  Arquivo: Azul Royal - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/186-661-2_1365x2048+crop_center.jpg?v=1742764540&webp=0
+  Arquivo: Azul Royal - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/186-661-4_1365x2048+crop_center.jpg?v=1742764542&webp=0
+
+------------------------------------------------------------

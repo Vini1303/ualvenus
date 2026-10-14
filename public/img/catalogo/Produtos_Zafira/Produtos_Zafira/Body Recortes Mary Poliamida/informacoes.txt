@@ -1,0 +1,120 @@
+﻿Body Recortes Mary Poliamida
+============================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Cinza
+Nome completo: Body Recortes Mary Poliamida Cinza
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9177945
+ID da variacao: 29083041
+Pagina do produto: https://www.zafiraatacado.com/body-recortes-mary-poliamida/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/397-9-1_1365x2048+crop_center.jpg?v=1764959085&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/397-9-2_1365x2048+crop_center.jpg?v=1764959088&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Marinho
+Nome completo: Body Recortes Mary Poliamida Marinho
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9177945
+ID da variacao: 29083039
+Pagina do produto: https://www.zafiraatacado.com/body-recortes-mary-poliamida/marinho
+Imagens previstas:
+  Arquivo: Marinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/397-76-1_1365x2048+crop_center.jpg?v=1764959080&webp=0
+  Arquivo: Marinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/397-76-2_1365x2048+crop_center.jpg?v=1764959081&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Body Recortes Mary Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9177945
+ID da variacao: 29083037
+Pagina do produto: https://www.zafiraatacado.com/body-recortes-mary-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/397-28-1_1365x2048+crop_center.jpg?v=1764959511&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/397-28-2_1365x2048+crop_center.jpg?v=1764959513&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Body Recortes Mary Poliamida Vinho
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9177945
+ID da variacao: 29083036
+Pagina do produto: https://www.zafiraatacado.com/body-recortes-mary-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/397-37-1_1365x2048+crop_center.jpg?v=1764959067&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/397-37-2_1365x2048+crop_center.jpg?v=1764959071&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Body Recortes Mary Poliamida Off White
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9177945
+ID da variacao: 28250227
+Pagina do produto: https://www.zafiraatacado.com/body-recortes-mary-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/30-5ue6y_1365x2048+crop_center.jpg?v=1784204098&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/31-kvdjs_1365x2048+crop_center.jpg?v=1784204100&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Body Recortes Mary Poliamida Rosa Bebe
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9177945
+ID da variacao: 28250072
+Pagina do produto: https://www.zafiraatacado.com/body-recortes-mary-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/397-108-1_1365x2048+crop_center.jpg?v=1764959492&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/397-57-3_1365x2048+crop_center.jpg?v=1765143750&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Claro
+Nome completo: Body Recortes Mary Poliamida Rosa Claro
+Preco: R$ 35,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 9177945
+ID da variacao: 27682960
+Pagina do produto: https://www.zafiraatacado.com/body-recortes-mary-poliamida/rosa-claro
+Imagens previstas:
+  Arquivo: Rosa Claro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/mary-rosa-bebe_1365x2048+crop_center.jpg?v=1772018659&webp=0
+  Arquivo: Rosa Claro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/mary-rosa-bebe-2_1365x2048+crop_center.jpg?v=1772018660&webp=0
+
+------------------------------------------------------------

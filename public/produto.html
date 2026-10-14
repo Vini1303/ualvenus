@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title id="pageTitle">Produto — Dash Imports</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,700;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div id="layout-header"></div>
+
+<div class="container">
+  <p class="breadcrumb">
+    <a href="/">Início</a> / <a href="/produtos.html" id="breadcrumbCat">Produtos</a> / <span id="breadcrumbName">...</span>
+  </p>
+</div>
+
+<section class="container" id="productDetail">
+  <div class="product-detail">
+    <div class="skeleton" style="aspect-ratio:1/1;"></div>
+    <div>
+      <div class="skeleton" style="height:30px;width:70%;margin-bottom:14px;"></div>
+      <div class="skeleton" style="height:24px;width:40%;margin-bottom:24px;"></div>
+      <div class="skeleton" style="height:120px;"></div>
+    </div>
+  </div>
+</section>
+
+<section class="shelf container">
+  <div class="shelf-head">
+    <h2 class="shelf-title">Você também pode gostar</h2>
+  </div>
+  <div class="product-grid" id="relatedProducts"></div>
+</section>
+
+<div id="layout-footer"></div>
+
+<script src="/js/api.js"></script>
+<script src="/js/cart.js"></script>
+<script src="/js/layout.js"></script>
+<script src="/js/product.js"></script>
+</body>
+</html>

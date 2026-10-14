@@ -1,0 +1,56 @@
+﻿Cropped Babe Poliamida
+======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Cinza
+Nome completo: Cropped Babe Poliamida Cinza
+Preco: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7938135
+ID da variacao: 28692444
+Pagina do produto: https://www.zafiraatacado.com/cropped-babe-poliamida/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/314-28-1_1365x2048+crop_center.jpg?v=1737909892&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/314-36-1_1365x2048+crop_center.jpg?v=1737909896&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vermelho
+Nome completo: Cropped Babe Poliamida Vermelho
+Preco: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7938135
+ID da variacao: 23200362
+Pagina do produto: https://www.zafiraatacado.com/cropped-babe-poliamida/vermelho
+Imagens previstas:
+  Arquivo: Vermelho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/314-36-1_1365x2048+crop_center.jpg?v=1737909896&webp=0
+  Arquivo: Vermelho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/314-36-2_1365x2048+crop_center.jpg?v=1737909898&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa Bebe
+Nome completo: Cropped Babe Poliamida Rosa Bebe
+Preco: R$ 30,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7938135
+ID da variacao: 23200359
+Pagina do produto: https://www.zafiraatacado.com/cropped-babe-poliamida/rosa-bebe
+Imagens previstas:
+  Arquivo: Rosa Bebe - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/314-57-1_1365x2048+crop_center.jpg?v=1737909908&webp=0
+  Arquivo: Rosa Bebe - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/314-57-2_1365x2048+crop_center.jpg?v=1737909910&webp=0
+
+------------------------------------------------------------

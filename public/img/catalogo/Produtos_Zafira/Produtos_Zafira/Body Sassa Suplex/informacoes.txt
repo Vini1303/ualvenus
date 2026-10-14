@@ -1,0 +1,25 @@
+﻿Body Sassa Suplex
+=================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Body Sassa Suplex Preto
+Preco: R$ 15,00
+Preco anterior exibido: R$ 28,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 7554375
+ID da variacao: 22116369
+Pagina do produto: https://www.zafiraatacado.com/body-sassa-suplex/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/3145620-28-1-1_1365x2048+crop_center.jpg?v=1731092882&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/3145620-28-2-1_1365x2048+crop_center.jpg?v=1731092884&webp=0
+
+------------------------------------------------------------

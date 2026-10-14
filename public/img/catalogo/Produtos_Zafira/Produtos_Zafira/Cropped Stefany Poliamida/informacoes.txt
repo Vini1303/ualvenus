@@ -1,0 +1,40 @@
+﻿Cropped Stefany Poliamida
+=========================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Cropped Stefany Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8414321
+ID da variacao: 24519749
+Pagina do produto: https://www.zafiraatacado.com/cropped-stefany-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/172-28-1_1365x2048+crop_center.jpg?v=1748887346&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/172-28-2_1365x2048+crop_center.jpg?v=1748887347&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Cropped Stefany Poliamida Off White
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 8414321
+ID da variacao: 24519748
+Pagina do produto: https://www.zafiraatacado.com/cropped-stefany-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/172-25-1_1365x2048+crop_center.jpg?v=1748887341&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/172-25-2_1365x2048+crop_center.jpg?v=1748887342&webp=0
+
+------------------------------------------------------------

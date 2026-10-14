@@ -1,0 +1,24 @@
+﻿Calça Kelly Veludo
+==================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Calça Kelly Veludo Preto
+Preco: R$ 55,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9071874
+ID da variacao: 26324356
+Pagina do produto: https://www.zafiraatacado.com/calca-kelly-veludo/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/31-suy0h_1365x2048+crop_center.jpg?v=1778513288&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/32-02wzc_1365x2048+crop_center.jpg?v=1778513289&webp=0
+
+------------------------------------------------------------

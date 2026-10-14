@@ -1,0 +1,40 @@
+﻿Body Dallas Poliamida
+=====================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Preto
+Nome completo: Body Dallas Poliamida Preto
+Preco: R$ 38,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10469046
+ID da variacao: 30533350
+Pagina do produto: https://www.zafiraatacado.com/body-dallas-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/33-djwip_1365x2048+crop_center.jpg?v=1785435701&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/34-7io7h_1365x2048+crop_center.jpg?v=1785435702&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Off White
+Nome completo: Body Dallas Poliamida Off White
+Preco: R$ 38,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10469046
+ID da variacao: 30533349
+Pagina do produto: https://www.zafiraatacado.com/body-dallas-poliamida/off-white
+Imagens previstas:
+  Arquivo: Off White - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/40-hjk0o_1365x2048+crop_center.jpg?v=1785435706&webp=0
+  Arquivo: Off White - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/41-sgcxo_1365x2048+crop_center.jpg?v=1785435706&webp=0
+
+------------------------------------------------------------

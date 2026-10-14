@@ -1,0 +1,40 @@
+﻿Cropped Elza Renda
+==================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Verde Água
+Nome completo: Cropped Elza Renda Verde Água
+Preco: R$ 53,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10007764
+ID da variacao: 29100170
+Pagina do produto: https://www.zafiraatacado.com/blusa-elza/verde-agua
+Imagens previstas:
+  Arquivo: Verde Água - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/42-gks42_1365x2048+crop_center.jpg?v=1777407921&webp=0
+  Arquivo: Verde Água - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/43-n4zli_1365x2048+crop_center.jpg?v=1777407921&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa
+Nome completo: Cropped Elza Renda Rosa
+Preco: R$ 53,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10007764
+ID da variacao: 29100169
+Pagina do produto: https://www.zafiraatacado.com/blusa-elza/rosa
+Imagens previstas:
+  Arquivo: Rosa - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/47-kabro_1365x2048+crop_center.jpg?v=1777407927&webp=0
+  Arquivo: Rosa - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/48-gugh5_1365x2048+crop_center.jpg?v=1777407928&webp=0
+
+------------------------------------------------------------

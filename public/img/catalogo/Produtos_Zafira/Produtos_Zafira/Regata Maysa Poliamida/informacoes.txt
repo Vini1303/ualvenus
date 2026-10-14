@@ -1,0 +1,88 @@
+﻿Regata Maysa Poliamida
+======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Marrom Escuro
+Nome completo: Regata Maysa Poliamida Marrom Escuro
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10119947
+ID da variacao: 30854609
+Pagina do produto: https://www.zafiraatacado.com/regata-maysa-poliamida/marrom-escuro
+Imagens previstas:
+  Arquivo: Marrom Escuro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/6-2-p9owb_1365x2048+crop_center.jpg?v=1788980568&webp=0
+  Arquivo: Marrom Escuro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/8-2-bsh0o_1365x2048+crop_center.jpg?v=1788980568&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Regata Maysa Poliamida Vinho
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10119947
+ID da variacao: 30854608
+Pagina do produto: https://www.zafiraatacado.com/regata-maysa-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/4-2-uh50q_1365x2048+crop_center.jpg?v=1788980565&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/5-2-rcqm8_1365x2048+crop_center.jpg?v=1788980566&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Rosa
+Nome completo: Regata Maysa Poliamida Rosa
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10119947
+ID da variacao: 29626280
+Pagina do produto: https://www.zafiraatacado.com/regata-maysa-poliamida/rosa
+Imagens previstas:
+  Arquivo: Rosa - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/3-3-yxa80_1365x2048+crop_center.jpg?v=1777289670&webp=0
+  Arquivo: Rosa - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/1-3-ph418_1365x2048+crop_center.jpg?v=1776875309&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Amarelo
+Nome completo: Regata Maysa Poliamida Amarelo
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10119947
+ID da variacao: 29626279
+Pagina do produto: https://www.zafiraatacado.com/regata-maysa-poliamida/amarelo
+Imagens previstas:
+  Arquivo: Amarelo - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/foto-cadastro-may-10-2-sgavl_1365x2048+crop_center.jpg?v=1777290404&webp=0
+  Arquivo: Amarelo - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/img2345-as55m_1365x2048+crop_center.jpg?v=1776617190&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Regata Maysa Poliamida Preto
+Preco: R$ 35,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 10119947
+ID da variacao: 29445496
+Pagina do produto: https://www.zafiraatacado.com/regata-maysa-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/12-rixih_1365x2048+crop_center.jpg?v=1776856853&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/10-sgmgb_1365x2048+crop_center.jpg?v=1776856853&webp=0
+
+------------------------------------------------------------

@@ -1,0 +1,41 @@
+﻿Calça Jeans Foil Pintura Metálica
+=================================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Branco
+Nome completo: Calça Jeans Foil Pintura Metálica Branco
+Preco: R$ 99,00
+Preco anterior exibido: R$ 130,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9714425
+ID da variacao: 28267019
+Pagina do produto: https://www.zafiraatacado.com/calca-jeans-foil-pintura-metalica/branco
+Imagens previstas:
+  Arquivo: Branco - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/49-0lphc_1365x2048+crop_center.jpg?v=1777982711&webp=0
+  Arquivo: Branco - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/48-br1qv_1365x2048+crop_center.jpg?v=1777982711&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Calça Jeans Foil Pintura Metálica Preto
+Preco: R$ 99,00
+Origem do preco: atributo data-product-price. O card exibe Esgotado e nao mostra o preco ao cliente.
+Situacao no codigo: Esgotado
+ID do produto: 9714425
+ID da variacao: 28438834
+Pagina do produto: https://www.zafiraatacado.com/calca-jeans-foil-pintura-metalica/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-n2tz5_1365x2048+crop_center.jpg?v=1785180125&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/2-50icu_1365x2048+crop_center.jpg?v=1785180126&webp=0
+
+------------------------------------------------------------

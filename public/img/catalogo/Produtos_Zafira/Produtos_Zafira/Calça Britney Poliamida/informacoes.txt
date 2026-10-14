@@ -1,0 +1,72 @@
+﻿Calça Britney Poliamida
+=======================
+
+Fonte: Texto colado.txt (codigo enviado).
+As variacoes de cor deste mesmo modelo ficam reunidas nesta pasta.
+Precos e situacao reproduzem o codigo enviado; nao sao uma consulta atual a loja.
+As imagens NAO estao salvas neste pacote inicial. Execute o baixador na pasta matriz.
+A pagina produto.html tenta abrir a imagem local e, na falta dela, a URL original.
+
+COR / VARIACAO: Marrom Escuro
+Nome completo: Calça Britney Poliamida Marrom Escuro
+Preco: R$ 43,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9038514
+ID da variacao: 29912095
+Pagina do produto: https://www.zafiraatacado.com/calca-britiney-poliamida/marrom-escuro
+Imagens previstas:
+  Arquivo: Marrom Escuro - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/1-kz6n3_1365x2048+crop_center.jpg?v=1779637066&webp=0
+  Arquivo: Marrom Escuro - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/5-lsdsh_1365x2048+crop_center.jpg?v=1779637067&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Vinho
+Nome completo: Calça Britney Poliamida Vinho
+Preco: R$ 43,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9038514
+ID da variacao: 27157232
+Pagina do produto: https://www.zafiraatacado.com/calca-britiney-poliamida/vinho
+Imagens previstas:
+  Arquivo: Vinho - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/a376-37-4-1_1365x2048+crop_center.jpg?v=1758478122&webp=0
+  Arquivo: Vinho - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/a376-37-1_1365x2048+crop_center.jpg?v=1758477186&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Preto
+Nome completo: Calça Britney Poliamida Preto
+Preco: R$ 43,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9038514
+ID da variacao: 26219199
+Pagina do produto: https://www.zafiraatacado.com/calca-britiney-poliamida/preto
+Imagens previstas:
+  Arquivo: Preto - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/20-mhmba_1365x2048+crop_center.jpg?v=1777927991&webp=0
+  Arquivo: Preto - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/21-wqzf7_1365x2048+crop_center.jpg?v=1777927992&webp=0
+
+------------------------------------------------------------
+
+COR / VARIACAO: Cinza
+Nome completo: Calça Britney Poliamida Cinza
+Preco: R$ 43,00
+Origem do preco: valor exibido na classe price do card.
+Situacao no codigo: Botao Comprar (nao confirma estoque atual)
+ID do produto: 9038514
+ID da variacao: 26219197
+Pagina do produto: https://www.zafiraatacado.com/calca-britiney-poliamida/cinza
+Imagens previstas:
+  Arquivo: Cinza - 01.jpg
+  URL: https://cdn.dooca.store/160985/products/15-xpy1b_1365x2048+crop_center.jpg?v=1777927990&webp=0
+  Arquivo: Cinza - 02.jpg
+  URL: https://cdn.dooca.store/160985/products/19-1d6xr_1365x2048+crop_center.jpg?v=1777927991&webp=0
+
+------------------------------------------------------------
